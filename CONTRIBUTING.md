@@ -1,5 +1,5 @@
 awesome-AutoHotkey_L is a specially curated list for high-quality, AutoHotkey_L scripts, tools and resources.
-This resource was made by the AutoHotkey community and wouldn't be possible without you! We appreciate and recognize [all contributors](/contributors).
+This resource was made by the AutoHotkey community and wouldn't be possible without you! We appreciate and recognize [all contributors](http://github.com/ahkscript/awesome-AutoHotkey_L/graphs/contributors).
 
 # Contribution Guidelines
 Please ensure your pull request adheres to the following guidelines:
