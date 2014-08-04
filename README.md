@@ -69,4 +69,4 @@ A curated list of awesome AutoHotkey_L scripts, tools and resources. Inspired by
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L !) and documentation!* Also hosts forum.
 
 ## Contributing
-Please see [CONTRIBUTING](/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](http://github.com/ahkscript/awesome-AutoHotkey_L/blob/master/CONTRIBUTING.md) for details.
