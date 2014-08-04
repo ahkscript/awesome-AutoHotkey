@@ -1,7 +1,7 @@
-# Awesome AutoHotkey_L
-A curated list of awesome AutoHotkey_L scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
+# Awesome AutoHotkey
+A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
-- [Awesome AutoHotkey_L](#awesome-autohotkey_l)
+- [Awesome AutoHotkey](#awesome-autohotkey)
   - [Scripts](#scripts)
     - [GUI](#gui)
     - [Text manipulation](#text-manipulation)
@@ -20,7 +20,7 @@ A curated list of awesome AutoHotkey_L scripts, tools and resources. Inspired by
 
 
 ## Scripts
-*List of useful AutoHotkey_L scripts.*
+*List of useful AutoHotkey scripts.*
 
 
 ### GUI
@@ -31,11 +31,11 @@ A curated list of awesome AutoHotkey_L scripts, tools and resources. Inspired by
 
 
 ## Tools
-*List of AutoHotkey_L tools.*
+*List of AutoHotkey tools.*
 
 
 ### Interpreter
-* [AutoHotkey_L](http://ahkscript.org/download/) - AutoHotkey_L interpreter installer and binaries.
+* [AutoHotkey](http://ahkscript.org/download/) - AutoHotkey interpreter installer and binaries.
 
 
 ### Integrated Development Environment
@@ -55,18 +55,18 @@ A curated list of awesome AutoHotkey_L scripts, tools and resources. Inspired by
 
 
 ## Resources
-*Various websites, documentation, guides, videos and articles related to AutoHotkey_L.*
+*Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
 ### Documentation
-* [AutoHotkey_L official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey_L documentation.
+* [AutoHotkey official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
 
 ### Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial.
-* [AHK_Tutorial](http://ahkscript.github.io/AHK_Tutorial/) - AutoHotkey_L tutorial created by tidbit and currently maintained by [ahkscript organisation](https://github.com/ahkscript/). Github [link](http://github.com/ahkscript/AHK_Tutorial).
+* [AHK_Tutorial](http://ahkscript.github.io/AHK_Tutorial/) - AutoHotkey tutorial created by tidbit and currently maintained by [ahkscript organisation](https://github.com/ahkscript/). Github [link](http://github.com/ahkscript/AHK_Tutorial).
 
 ### Websites
-* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey_L download section and documentation. Hosts AutoHotkey official forum.
-* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L !) and documentation!* Also hosts forum.
+* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey download section and documentation. Hosts AutoHotkey official forum.
+* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* Also hosts forum.
 
 ## Contributing
-Please see [CONTRIBUTING](http://github.com/ahkscript/awesome-AutoHotkey_L/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](http://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) for details.
