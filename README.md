@@ -25,14 +25,14 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 *List of useful AutoHotkey scripts.*
 
 
-### GUI
+#### GUI
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
 
-### GUI automation
+#### GUI automation
 * [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you cant move window with WinMove command, you can use that script.
 
 
-### Text manipulation
+#### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 
@@ -40,11 +40,11 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 *List of AutoHotkey tools.*
 
 
-### Interpreter
+#### Interpreter
 * [AutoHotkey](http://ahkscript.org/download/) - AutoHotkey interpreter installer and binaries.
 
 
-### Integrated Development Environment
+#### Integrated Development Environment
 * [AHK Studio](http://ahkscript.org/boards/viewtopic.php?f=6&t=300) - SciLexer.dll based IDE for AutoHotkey.
 * [DRAKON Editor](http://ahkscript.org/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](http://ahkscript.org/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
@@ -52,15 +52,15 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 * [Sublime 4 Autohotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 Autohotkey is a patch for Sublime Text text editor which adds support for Autohotkey.
 
 
-### GUI WYSIWYG Builders
+#### GUI WYSIWYG Builders
 * [GUI Creator (formerly Basic GUI Creator)](http://ahkscript.org/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
 
 
-### Script Recorders and Writers
+#### Script Recorders and Writers
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners.
 
 
-### Web Syntax Highlighters
+#### Web Syntax Highlighters
 * [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal Autohotkey syntax highlighting
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for Autohotkey with default support for line numbers.
 
@@ -68,14 +68,14 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Resources
 *Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
-### Documentation
+#### Documentation
 * [AutoHotkey official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
 
-### Quick-start guides
+#### Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial.
 * [AHK_Tutorial](http://ahkscript.github.io/AHK_Tutorial/) - AutoHotkey tutorial created by tidbit and currently maintained by [ahkscript organisation](https://github.com/ahkscript/). Github [link](http://github.com/ahkscript/AHK_Tutorial).
 
-### Websites
+#### Websites
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey download section and documentation. Hosts AutoHotkey official forum.
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* Also hosts forum.
 
