@@ -4,6 +4,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Scripts](#scripts)
     - [GUI](#gui)
+    - [GUI automation](#gui-automation)
     - [Text manipulation](#text-manipulation)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
@@ -25,6 +26,10 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 ### GUI
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
+
+### GUI automation
+* [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you cant move window with WinMove command, you can use that script.
+
 
 ### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
