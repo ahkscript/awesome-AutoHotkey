@@ -11,6 +11,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [Integrated Development Environment](#integrated-development-environment)
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Script Recorders and Writers](#script-recorders-and-writers)
+    - [Web Syntax Highlighters](#web-syntax-highlighters)
   - [Resources](#resources)
     - [Documentation](#documentation)
     - [Quick-start guides](#quick-start-guides)
@@ -57,6 +58,11 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 ### Script Recorders and Writers
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners.
+
+
+### Web Syntax Highlighters
+* [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal Autohotkey syntax highlighting
+* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for Autohotkey with default support for line numbers.
 
 
 ## Resources
