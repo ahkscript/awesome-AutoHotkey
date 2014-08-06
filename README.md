@@ -75,7 +75,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 *Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
 #### Documentation
-* [AutoHotkey official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
+* [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
 
 #### Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial.
