@@ -12,6 +12,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Script Recorders and Writers](#script-recorders-and-writers)
     - [Web Syntax Highlighters](#web-syntax-highlighters)
+    - [Others](#tools-others)
   - [Resources](#resources)
     - [Documentation](#documentation)
     - [Quick-start guides](#quick-start-guides)
@@ -63,6 +64,11 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### Web Syntax Highlighters
 * [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal Autohotkey syntax highlighting
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for Autohotkey with default support for line numbers.
+
+
+#### <a name="tools-others"></a>Others
+* [GoTo](http://www.autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
+* [Context sensitive help in any editor](http://www.autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
 
 
 ## Resources
