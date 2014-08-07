@@ -2,10 +2,13 @@
 A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 - [Awesome AutoHotkey](#awesome-autohotkey)
+  - [Library Distributions](#library-distributions)
+    - [Standard Libraries](#standard-libraries)
+  - [More Libraries](#standard-libraries)
+    - [Text manipulation](#text-manipulation)
   - [Scripts](#scripts)
     - [GUI](#gui)
     - [GUI automation](#gui-automation)
-    - [Text manipulation](#text-manipulation)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Integrated Development Environment](#integrated-development-environment)
@@ -21,6 +24,21 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 
+## Library Distributions
+
+
+- [pAHKlight](https://github.com/hi5/pAHKlight)
+- Ryan Shipp's [ahk-libs](https://github.com/rshipp/ahk-libs)
+- [ASPDM](https://github.com/ahkscript/ASPDM), for [package/stdlib distribution and management](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management) from the [ahkscript](https://github.com/ahkscript) folks
+- [ALD](http://libba.net/) (discontinued)
+- tuncay's original [ahkstdlib](http://www.autohotkey.com/forum/viewtopic.php?t=54996) (discontinued)
+- [Salt](https://code.google.com/p/salt/) (discontinued)
+- Uberi and infogulch's [ahklib](https://github.com/ahklib)
+
+#### Text manipulation
+* [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
+
+
 
 ## Scripts
 *List of useful AutoHotkey scripts.*
@@ -32,9 +50,6 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### GUI automation
 * [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you cant move window with WinMove command, you can use that script.
 
-
-#### Text manipulation
-* [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 
 ## Tools
