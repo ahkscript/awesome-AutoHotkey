@@ -4,7 +4,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Library Distributions](#library-distributions)
     - [Standard Libraries](#standard-libraries)
-  - [More Libraries](#standard-libraries)
+  - [More Libraries](#more-libraries)
     - [Text manipulation](#text-manipulation)
   - [Scripts](#scripts)
     - [GUI](#gui)
@@ -34,6 +34,8 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 - tuncay's original [ahkstdlib](http://www.autohotkey.com/forum/viewtopic.php?t=54996) (discontinued)
 - [Salt](https://code.google.com/p/salt/) (discontinued)
 - Uberi and infogulch's [ahklib](https://github.com/ahklib)
+
+###More Libraries
 
 #### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
