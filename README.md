@@ -26,13 +26,13 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Library Distributions
 
 
-- [pAHKlight](https://github.com/hi5/pAHKlight)
-- Ryan Shipp's [ahk-libs](https://github.com/rshipp/ahk-libs)
-- [ASPDM](https://github.com/ahkscript/ASPDM), for [package/stdlib distribution and management](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management) from the [ahkscript](https://github.com/ahkscript) folks
-- [ALD](http://libba.net/) (discontinued)
-- tuncay's original [ahkstdlib](http://www.autohotkey.com/forum/viewtopic.php?t=54996) (discontinued)
-- [Salt](https://code.google.com/p/salt/) (discontinued)
-- Uberi and infogulch's [ahklib](https://github.com/ahklib)
+- [pAHKlight](https://github.com/hi5/pAHKlight) - pAHKlight - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
+- [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
+- [ASPDM](https://github.com/ahkscript/ASPDM) - [package/stdlib distribution and management](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management) from the [ahkscript](https://github.com/ahkscript) folks.
+- [ALD](http://libba.net/) (discontinued) - AutoHotkey Library Distribution system.
+- [ahkstdlib](http://www.autohotkey.com/forum/viewtopic.php?t=54996) (discontinued) - Ahk Standard Library Collection by Tuncay.
+- [Salt](https://code.google.com/p/salt/) (discontinued) - Standard AutoHotkey Library Transfer.
+- [ahklib](https://github.com/ahklib) - Uberi and infogulch's AutoHotkey library.
 
 ###More Libraries
 
