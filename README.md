@@ -28,18 +28,18 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Libraries
 
 
-### Graphics
+#### Graphics
 * [GDIp](http://www.autohotkey.com/board/topic/29449-) - Full featured library that helps in interaction with Microsoft's gdiplus.dll
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen
 
-### Maths
+#### Maths
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Calculate maths and evaluate stamements dynamically
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics
 
-### Text manipulation
+#### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
-### UnCategorized
+#### UnCategorized
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x)
 
 
