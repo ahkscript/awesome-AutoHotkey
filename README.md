@@ -6,7 +6,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [Graphics](#graphics)
     - [Maths](#maths)
     - [Text manipulation](#text-manipulation)
-    - [Graphics](#graphics)
+    - [UnCategorized](#uncategorized)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
     - [GUI](#gui)
