@@ -3,7 +3,6 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Library Distributions](#library-distributions)
-    - [Standard Libraries](#standard-libraries)
   - [More Libraries](#more-libraries)
     - [Text manipulation](#text-manipulation)
   - [Scripts](#scripts)
