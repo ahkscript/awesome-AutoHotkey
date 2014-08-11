@@ -16,6 +16,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [GUI automation](#gui-automation)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
+    - [Debugging](#debugging)
     - [Integrated Development Environment](#integrated-development-environment)
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Script Recorders and Writers](#script-recorders-and-writers)
@@ -89,6 +90,8 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### Interpreter
 * [AutoHotkey](http://ahkscript.org/download/) - AutoHotkey interpreter installer and binaries.
 
+#### Debugging
+* [[Class] Console](http://ahkscript.org/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. Github [link](https://github.com/AfterLemon/Class_Console).
 
 #### Integrated Development Environment
 * [AHK Studio](http://ahkscript.org/boards/viewtopic.php?f=6&t=300) - SciLexer.dll based IDE for AutoHotkey.
