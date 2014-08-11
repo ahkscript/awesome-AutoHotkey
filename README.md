@@ -26,6 +26,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Libraries
+*List of useful AutoHotkey libraries. Library is a code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
 
 #### Graphics
@@ -45,6 +46,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Library Distributions
+*List of useful AutoHotkey library distributions. Library Distribution is system that is made for distributing libraries.*
 
 
 - [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
@@ -58,7 +60,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Scripts
-*List of useful AutoHotkey scripts.*
+*List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone one and is not meant to be integrated with other code.*
 
 
 #### GUI
@@ -70,7 +72,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Tools
-*List of AutoHotkey tools.*
+*List of useful AutoHotkey tools. Tools made for Autohotkey*
 
 
 #### Interpreter
@@ -104,7 +106,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Resources
-*Various websites, documentation, guides, videos and articles related to AutoHotkey.*
+*List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
 #### Documentation
 * [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
