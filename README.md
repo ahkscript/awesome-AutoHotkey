@@ -9,6 +9,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
+    - [Clipboard](#clipboard)
     - [GUI](#gui)
     - [GUI automation](#gui-automation)
   - [Tools](#tools)
@@ -62,6 +63,8 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone one and is not meant to be integrated with other code.*
 
+#### Clipboard
+* [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source: [Github](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](http://ahkscript.org/boards/viewtopic.php?f=6&t=401), [link 2](http://www.autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
 #### GUI
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
