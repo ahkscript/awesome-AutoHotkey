@@ -10,7 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
   1. In group **Tools**, subgroup *Interpreter* comes first.
   3. In group **Resources**, in subgroups *Websites*, *Documentation* and *Quick-start guides*, official ones comes first. 
 - Each item should follow rules:
- 1. First comes the name of item which in the same time is a link to home page. If there is not home page, the forum thread. If there is no forum thread the download page of that item. 
+ 1. First comes the name of item which in the same time is a link to home page. If there is not home page, the link of forum thread of that item. If there is no forum thread, the link of download page of that item. 
  2. After should go `-` sign. 
  3. After should go short, clear, concise, and non-promotional description. Descriptions should follow the link, on the same line.
  4. If the item has a thread in the forum, or any other related links, they should be in the last sentence of description. Like this - Forum thread: [link](http://link) .
