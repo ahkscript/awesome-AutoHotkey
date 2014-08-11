@@ -13,7 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
  1. First comes the name of item which in the same time is a link to download page of that item. 
  2. After should go `-`. 
  3. After should go short, clear, concise, and non-promotional description. Descriptions should follow the link, on the same line.
- 4. If the item has a thread in the forum (which in the same time is not a link to download page of item) the link to that thread should be in the last sentence of description. Like this: [link](http://link) .
+ 4. If the item has a thread in the forum (which in the same time is not a link to download page of item) the link to that thread should be in the last sentence of description. Like this - Forum thread: [link](http://link) .
 
 Please contribute links to libraries/library distributions/script/tool/resource you have used or are familiar with. This will help ensure high-quality entries.
 
