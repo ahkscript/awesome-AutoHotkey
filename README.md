@@ -5,6 +5,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
   - [Libraries](#libraries)
     - [Filesystem](#filesystem)
     - [Graphics](#graphics)
+    - [GUI](#gui)
     - [Hotkeys](#hotkeys)
     - [Maths](#maths)
     - [Text manipulation](#text-manipulation)
@@ -37,6 +38,9 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### Graphics
 * [GDIp](http://www.autohotkey.com/board/topic/29449-) - Full featured library that helps in interaction with Microsoft's gdiplus.dll .
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
+
+#### GUI
+* [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize control automatically when GUI resized.
 
 #### Hotkeys
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
