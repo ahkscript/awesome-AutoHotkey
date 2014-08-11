@@ -3,6 +3,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Libraries](#libraries)
+    - [Filesystem](#filesystem)
     - [Graphics](#graphics)
     - [Hotkeys](#hotkeys)
     - [Maths](#maths)
@@ -30,16 +31,19 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 *List of useful AutoHotkey libraries. Library is a code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
 
+#### Filesystem
+* [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
+
 #### Graphics
-* [GDIp](http://www.autohotkey.com/board/topic/29449-) - Full featured library that helps in interaction with Microsoft's gdiplus.dll
-* [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen
+* [GDIp](http://www.autohotkey.com/board/topic/29449-) - Full featured library that helps in interaction with Microsoft's gdiplus.dll .
+* [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
 
 #### Hotkeys
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 #### Maths
-* [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Calculate maths and evaluate stamements dynamically
-* [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics
+* [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Calculate maths and evaluate stamements dynamically.
+* [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 
 #### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
@@ -99,7 +103,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 #### Web Syntax Highlighters
-* [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal Autohotkey syntax highlighting
+* [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal Autohotkey syntax highlighting.
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for Autohotkey with default support for line numbers.
 
 
