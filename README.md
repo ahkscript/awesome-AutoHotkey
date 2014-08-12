@@ -30,7 +30,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Libraries
-*List of useful AutoHotkey libraries. Library is a code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
+*List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
 
 #### Filesystem
@@ -41,13 +41,13 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
 
 #### GUI
-* [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize control automatically when GUI resized.
+* [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
 #### Hotkeys
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 #### Maths
-* [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Calculate maths and evaluate stamements dynamically.
+* [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 
 #### Text manipulation
@@ -56,7 +56,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Library Distributions
-*List of useful AutoHotkey library distributions. Library Distribution is system that is made for distributing libraries.*
+*List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
 
 - [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
@@ -70,7 +70,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 
 ## Scripts
-*List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone one and is not meant to be integrated with other code.*
+*List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
 #### Clipboard
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source: [Github](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](http://ahkscript.org/boards/viewtopic.php?f=6&t=401), [link 2](http://www.autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
@@ -79,7 +79,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
 
 #### GUI automation
-* [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you cant move window with WinMove command, you can use that script.
+* [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you can't a move window with the WinMove command, you can use this script.
 
 
 
@@ -130,8 +130,8 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 * [AHK_Tutorial](http://ahkscript.github.io/AHK_Tutorial/) - AutoHotkey tutorial created by tidbit and currently maintained by [ahkscript organisation](https://github.com/ahkscript/). Github [link](http://github.com/ahkscript/AHK_Tutorial).
 
 #### Websites
-* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey download section and documentation. Hosts AutoHotkey official forum.
-* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* Also hosts forum.
+* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey downloads and documentation. Hosts the official AutoHotkey forum.
+* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts an outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* It also hosts a forum.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) for details.
