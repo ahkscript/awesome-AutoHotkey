@@ -63,7 +63,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 - [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
 - [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 - [ALD](http://libba.net/) (discontinued) - AutoHotkey Library Distribution system.
-- [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) (discontinued) - Ahk Standard Library Collection by Tuncay.
+- [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) (discontinued) - Ahk Standard Library Collection by Tuncay. Other forum link: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).
 - [Salt](https://code.google.com/p/salt/) (discontinued) - Standard AutoHotkey Library Transfer.
 - [ahklib](https://github.com/ahklib) (discontinued) - Uberi and infogulch's AutoHotkey library.
 
