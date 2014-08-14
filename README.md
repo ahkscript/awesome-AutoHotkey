@@ -15,6 +15,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [File Management](#file-management)
     - [GUI](#gui)
     - [GUI automation](#gui-automation)
+    - [Mouse](#mouse)
     - [Typing](#typing)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
@@ -85,6 +86,9 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 
 #### GUI automation
 * [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you can't a move window with the WinMove command, you can use this script.
+
+#### Mouse
+* [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648)
 
 #### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/)
