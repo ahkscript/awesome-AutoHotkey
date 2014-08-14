@@ -5,6 +5,7 @@ This resource was made by the AutoHotkey community and wouldn't be possible with
 
 ###How to contribute item
 Please ensure your pull request adheres to the following guidelines:
+- Please contribute items to libraries/library distributions/script/tool/resource you have used or are familiar with. This will help ensure high-quality entries.
 - Make an individual pull request for each item.
 - Chose corresponding group (Libraries, Library Distributions, Scripts or Tools or Resources) and subgroup for your item.
 - Subgroup and list items should be sorted *alphabetically*. Exeptions are:
@@ -15,9 +16,6 @@ Please ensure your pull request adheres to the following guidelines:
  2. After should go `-` sign. 
  3. After should go short, clear, concise, and non-promotional description. Descriptions should follow the link, on the same line.
  4. If the item has any other related links, they should go after description. Like this - Forum thread: [link](http://link) .
-
-Please contribute links to libraries/library distributions/script/tool/resource you have used or are familiar with. This will help ensure high-quality entries.
-
 
 ### Quality standards
 To stay on the list, libraries, library distributions, scripts, tools and resource should adhere to these quality standards:
