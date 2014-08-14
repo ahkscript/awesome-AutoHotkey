@@ -14,6 +14,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [Clipboard](#clipboard)
     - [GUI](#gui)
     - [GUI automation](#gui-automation)
+    - [Typing](#typing)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Debugging](#debugging)
