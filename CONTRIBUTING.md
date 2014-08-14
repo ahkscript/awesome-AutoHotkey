@@ -18,12 +18,12 @@ Please ensure your pull request adheres to the following guidelines:
 Please contribute links to libraries/library distributions/script/tool/resource you have used or are familiar with. This will help ensure high-quality entries.
 
 
-## Quality standard
+### Quality standard
 To stay on the list, libraries, library distributions, scripts, tools and resource should adhere to these quality standards:
 - Generally useful to the community.
 - Functional.
 - Stable, or progressing toward stable.
 
 
-## Reporting issues
+### Reporting issues
 Please open an issue if you find anything that could be improved or have suggestions for making the list a more valuable resource. Sometimes links may become broken or code become non-functional, please let us know about that kind of issues. Thanks everyone!
