@@ -81,7 +81,9 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### GUI automation
 * [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you can't a move window with the WinMove command, you can use this script.
 
-
+#### Typing
+* [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/)
+* [TypingAid](http://www.autohotkey.net/~Maniac/TypingAid/TypingAid%20v2.19d.zip) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/)
 
 ## Tools
 *List of useful AutoHotkey tools. Tools made for Autohotkey*
