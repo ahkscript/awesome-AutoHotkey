@@ -1,5 +1,5 @@
 # Awesome AutoHotkey
-A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 - [Awesome AutoHotkey](#awesome-autohotkey)
