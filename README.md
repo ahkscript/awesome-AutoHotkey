@@ -65,7 +65,6 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-
 - [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 - [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
 - [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
@@ -97,6 +96,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/)
 * [TypingAid](http://www.autohotkey.net/~Maniac/TypingAid/TypingAid%20v2.19d.zip) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/)
+* [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193)
 
 ## Tools
 *List of useful AutoHotkey tools. Tools made for Autohotkey*
