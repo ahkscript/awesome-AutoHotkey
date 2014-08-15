@@ -12,7 +12,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
     - [Clipboard](#clipboard)
-    - [File Management](#file-management)
+    - [Filesystem](#filesystem)
     - [GUI](#gui)
     - [GUI automation](#gui-automation)
     - [Mouse](#mouse)
@@ -78,7 +78,7 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 #### Clipboard
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [Github](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](http://ahkscript.org/boards/viewtopic.php?f=6&t=401), [link 2](http://www.autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
-#### File Management
+#### Filesystem
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc)
 
 #### GUI
