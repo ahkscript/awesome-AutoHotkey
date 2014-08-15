@@ -1,8 +1,10 @@
 # Awesome AutoHotkey
 A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
+<!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Libraries](#libraries)
+    - [Clipboard](#clipboard)
     - [Filesystem](#filesystem)
     - [Graphics](#graphics)
     - [GUI](#gui)
@@ -11,9 +13,9 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
-    - [Clipboard](#clipboard)
-    - [Filesystem](#filesystem2)
-    - [GUI](#gui)
+    - [Clipboard](#scripts-clipboard)
+    - [Filesystem](#scripts-filesystem)
+    - [GUI](#scripts-gui)
     - [GUI automation](#gui-automation)
     - [Mouse](#mouse)
     - [Typing](#typing)
@@ -35,6 +37,8 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Libraries
 *List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
+#### Clipboard
+* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 #### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
@@ -75,13 +79,13 @@ A curated list of awesome AutoHotkey scripts, tools and resources. Inspired by t
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
-#### Clipboard
+#### Clipboard <a name="scripts-clipboard"></a>
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [Github](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](http://ahkscript.org/boards/viewtopic.php?f=6&t=401), [link 2](http://www.autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
-#### Filesystem <a name="filesystem2"></a>
+#### Filesystem <a name="scripts-filesystem"></a>
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc)
 
-#### GUI
+#### GUI <a name="scripts-gui"></a>
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
 
 #### GUI automation
