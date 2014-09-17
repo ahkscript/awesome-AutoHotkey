@@ -11,6 +11,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Hotkeys](#hotkeys)
     - [Maths](#maths)
     - [Text manipulation](#text-manipulation)
+    - [Console](#console)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
     - [Clipboard](#scripts-clipboard)
