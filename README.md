@@ -61,6 +61,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
+#### Text manipulation
+* [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles.
+
 
 
 ## Library Distributions
