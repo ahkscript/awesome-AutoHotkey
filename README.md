@@ -42,6 +42,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Clipboard
 * [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
+#### Database
+* [ahkDBA](https://github.com/IsNull/ahkDBA) - An OOP-SQL database access framework. Forum [link](http://www.autohotkey.com/board/topic/71179-).
+
 #### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
 
