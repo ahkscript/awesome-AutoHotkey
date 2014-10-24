@@ -6,6 +6,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Libraries](#libraries)
     - [Clipboard](#clipboard)
+    - [Database](#database)
     - [Filesystem](#filesystem)
     - [Graphics](#graphics)
     - [GUI](#gui)
