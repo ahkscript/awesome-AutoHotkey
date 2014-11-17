@@ -6,7 +6,7 @@ This resource was made by the AutoHotkey community and wouldn't be possible with
 ###How to contribute item
 Please ensure your pull request adheres to the following guidelines:
 - Please contribute items to libraries/library distributions/script/tool/resource you have used or are familiar with. This will help ensure high-quality entries.
-- Make an individual pull request for each item.
+- If you have rights to commit to the list (member of ahkscript organization) then edit list directly, no need for pull request. If you are not member of ahkscript organization, make an individual pull request for each item.
 - Chose corresponding group (Libraries, Library Distributions, Scripts or Tools or Resources) and subgroup for your item.
 - Subgroup and list items should be sorted *alphabetically*. Exeptions are:
   1. In group **Tools**, subgroup *Interpreter* comes first.
