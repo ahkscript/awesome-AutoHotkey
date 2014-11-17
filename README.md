@@ -13,7 +13,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [GUI](#gui)
     - [Hotkeys](#hotkeys)
     - [Maths](#maths)
-    - [Sockets](#Sockets)
+    - [Sockets](#sockets)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
