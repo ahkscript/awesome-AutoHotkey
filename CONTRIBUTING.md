@@ -16,6 +16,7 @@ Please ensure your pull request adheres to the following guidelines:
  2. After should go `-` sign. 
  3. After should go short, clear, concise, and non-promotional description. Descriptions should follow the link, on the same line.
  4. If the item has any other related links, they should go after description. Like this - Forum thread: [link](http://link) .
+- Use unique anchor tags for each item in the table of contents (more about it [here](https://github.com/ahkscript/awesome-AutoHotkey/issues/12) ).
 
 ### Quality standards
 To stay on the list, libraries, library distributions, scripts, tools and resource should adhere to these quality standards:
