@@ -1,6 +1,6 @@
 # Awesome AutoHotkey
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ahkscript/awesome-AutoHotkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
-A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) before contributing.
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 - [Awesome AutoHotkey](#awesome-autohotkey)
@@ -160,6 +160,3 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Websites
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey downloads and documentation. Hosts the official AutoHotkey forum.
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts an outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* It also hosts a forum.
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) for details.
