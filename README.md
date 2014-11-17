@@ -70,7 +70,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum [link](http://ahkscript.org/boards/viewtopic.php?t=17)
 
 
-
+<br><br>
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
@@ -84,6 +84,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 
 
+<br><br>
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
@@ -107,6 +108,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) Github [link](https://github.com/ManiacDC/TypingAid).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193)
 
+
+
+<br><br>
 ## Tools
 *List of useful AutoHotkey tools. Tools made for Autohotkey*
 
@@ -147,6 +151,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Context sensitive help in any editor](http://www.autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
 
 
+
+<br><br>
 ## Resources
 *List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
