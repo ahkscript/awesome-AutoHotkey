@@ -13,6 +13,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [GUI](#gui)
     - [Hotkeys](#hotkeys)
     - [Maths](#maths)
+    - [Sockets](#Sockets)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
@@ -66,6 +67,10 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Maths
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
+
+#### Sockets
+* [AHKsock](http://www.autohotkey.com/board/topic/53827-) - Function based sockets library. Supports TCP.
+* [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - Class based sockets library. Supports TCP and UDP.
 
 #### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
