@@ -34,7 +34,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Documentation](#documentation)
     - [Quick-start guides](#quick-start-guides)
     - [Websites](#websites)
-  - [Contributing](#contributing)
 
 
 ## Libraries
