@@ -1,0 +1,79 @@
+@import url('reset.css');
+
+a:visited
+{
+	color: blue;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+}
+
+.wrapper
+{
+	font-size: 14pt;
+	font-family: verdana, sans-serif;
+	line-height: initial;
+}
+
+.header
+{
+	background-color: #68758F;
+	padding: 1em;
+}
+
+.header a
+{
+	position: absolute; /* Dirty trick to get it to not affect the h1 */
+	float: left;
+	color: white;
+	font-size: 1.5em;
+}
+
+.header h1
+{
+	color: white;
+	font-size: 1.5em;
+	margin: 0 auto;
+	/* width: 5em; */
+	text-align: center;
+}
+
+/* .content
+{
+	padding: 1em;
+} */
+
+.description
+{
+	
+}
+
+.content>a, li
+{
+	display: block;
+	border-radius: 0.25em;
+	padding: 1.5em;
+	width: 80%;
+	margin: 1em auto;
+	box-shadow: 2px 2px 4px 1px Gray;
+}
+
+.author
+{
+}
+
+.url
+{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.description
+{
+	/* float: right; */
+}
