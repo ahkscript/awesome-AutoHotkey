@@ -35,7 +35,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Quick-start guides](#quick-start-guides)
     - [Websites](#websites)
 
-<br><br><hr><br><br>
+<br><hr><br>
 
 ## Libraries
 *List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
