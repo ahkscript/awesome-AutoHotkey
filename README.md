@@ -20,7 +20,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Clipboard](#scripts-clipboard)
     - [Filesystem](#scripts-filesystem)
     - [GUI](#scripts-gui)
-    - [GUI automation](#gui-automation)
     - [Mouse](#mouse)
     - [Typing](#typing)
   - [Tools](#tools)
@@ -102,9 +101,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 #### GUI <a name="scripts-gui"></a>
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
-
-#### GUI automation
-* [Moving window without WinMove](http://ahkscript.org/boards/viewtopic.php?f=6&t=4013) - In case you can't a move window with the WinMove command, you can use this script.
 
 #### Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648)
