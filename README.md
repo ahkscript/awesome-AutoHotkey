@@ -1,5 +1,5 @@
 # Awesome AutoHotkey
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ahkscript/awesome-AutoHotkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![gh-pages](http://ahkscript.org/static/view-gh-pages-button.png)](https://ahkscript.github.io/awesome-AutoHotkey)  
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ahkscript/awesome-AutoHotkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![gh-pages](https://cloud.githubusercontent.com/assets/1973899/5237387/2c8f8372-7881-11e4-91f6-fb46690eb875.png)](https://ahkscript.github.io/awesome-AutoHotkey)  
 A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) before contributing.
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
