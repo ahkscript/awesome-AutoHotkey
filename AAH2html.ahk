@@ -33,6 +33,7 @@ EntryTemplate =
 )
 EntryTemplate := "`t`t`t`t`t" EntryTemplate ; Workaround for weird continuation section issue
 
+FileEncoding, UTF-8
 FileRead, Input, README.md
 
 Entries := []
