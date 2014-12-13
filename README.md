@@ -156,6 +156,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Embed Lisp](https://github.com/tinku99/ahklisp) - Forum [link](http://www.autohotkey.com/board/topic/39620-ahklisp-lisp-on-win32-with-cffi-sbcl-and-autohotkey/)
 * [Embed Perl](http://www.autohotkey.com/forum/topic12333.html) - Forum [link](http://www.autohotkey.com/forum/topic12333.html) 
 * [Embed Python](https://github.com/tinku99/embedpython) - Forum [link](http://www.autohotkey.com/forum/topic51591.html)
+* [PAHK](https://code.google.com/p/pahk/) - Forum [link] (http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/)
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/)
 
 <br><br>
