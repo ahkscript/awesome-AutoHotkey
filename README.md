@@ -76,7 +76,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
-<br><br>
+<br>
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
@@ -88,7 +88,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Salt](https://code.google.com/p/salt/) (discontinued) - Standard AutoHotkey Library Transfer.
 * [ahklib](https://github.com/ahklib) (discontinued) - Uberi and infogulch's AutoHotkey library.
 
-<br><br>
+<br>
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
@@ -99,7 +99,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc)
 
 #### GUI <a name="scripts-gui"></a>
-* [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
+* [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
 
 #### Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648)
@@ -109,7 +109,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) Github [link](https://github.com/ManiacDC/TypingAid).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193)
 
-<br><br>
+<br>
 ## Tools
 *List of useful AutoHotkey tools. Tools made for Autohotkey*
 
@@ -160,7 +160,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [PAHK](https://code.google.com/p/pahk/) - Forum [link](http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/)
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/)
 
-<br><br>
+<br>
 ## Resources
 *List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
