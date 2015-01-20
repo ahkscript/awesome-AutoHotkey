@@ -80,7 +80,7 @@ RenderPage(SectionName, Entries)
 	StringReplace, MyPage, MyPage, {{SECTION}}, % SectionName, All
 	StringReplace, MyPage, MyPage, {{ENTRIES}}, % RenderEntries(Entries), All
 	
-	return MyPage
+	return RegExReplace(MyPage, "\R", "`r`n")
 }
 
 RenderEntries(Entries)
