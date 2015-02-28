@@ -1,5 +1,5 @@
 # Contribution Guidelines
-awesome-AutoHotkey is a specially curated list for high-quality, AutoHotkey libraries, library distributions, scripts, tools and resources.
+awesome-AutoHotkey is a specially curated list for high-quality AutoHotkey Libraries, Library Distributions, Scripts, Tools and Resources.
 This resource was made by the AutoHotkey community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/ahkscript/awesome-AutoHotkey/graphs/contributors).
 
 
