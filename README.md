@@ -68,8 +68,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 #### Maths
-* [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
+* [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs (discontinued) - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 
 #### Sockets
 * [AHKsock](http://www.autohotkey.com/board/topic/53827-) - Function based sockets library. Supports TCP.
