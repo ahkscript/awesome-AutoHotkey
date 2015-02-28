@@ -134,7 +134,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [DRAKON Editor](http://ahkscript.org/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](http://ahkscript.org/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
-* [Sublime 4 Autohotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 Autohotkey is a patch for Sublime Text text editor which adds support for Autohotkey.
+* [Sublime 4 AutoHotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey.
 
 #### GUI WYSIWYG Builders
 * [GUI Creator (formerly Basic GUI Creator)](http://ahkscript.org/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
@@ -143,8 +143,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=143). Github [link](https://github.com/Pulover/PuloversMacroCreator).
 
 #### Web Syntax Highlighters
-* [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal Autohotkey syntax highlighting.
-* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for Autohotkey with default support for line numbers.
+* [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
+* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 
 #### <a name="tools-others"></a>Others
 * [GoTo](http://www.autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
