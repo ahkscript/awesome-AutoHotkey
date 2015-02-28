@@ -64,6 +64,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
 #### Hotkeys
+* [HotClass](http://ahkscript.org/boards/viewtopic.php?f=6&t=6105) by evilC - Dynamic Hotkey and Binding system
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 #### Maths
