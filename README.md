@@ -9,7 +9,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Console](#console)
     - [Database](#database)
     - [Filesystem](#filesystem)
-    - [Graphics](#graphics)
+    - [Graphics](#libraries-graphics)
     - [GUI](#gui)
     - [Hotkeys](#hotkeys)
     - [Lists](#lists)
@@ -20,6 +20,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
   - [Scripts](#scripts)
     - [Clipboard](#scripts-clipboard)
     - [Filesystem](#scripts-filesystem)
+    - [Graphics](#scripts-graphics)
     - [GUI](#scripts-gui)
     - [Mouse](#mouse)
     - [Typing](#typing)
@@ -56,8 +57,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
 
-#### Graphics
-* [GDIp](https://github.com/tariqporter/Gdip/) - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6517).
+#### Graphics <a name="libraries-graphics"></a>
+* [GDIp](https://github.com/tariqporter/Gdip/) by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6517).
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
 * [Simple GDI class](http://ahkscript.org/boards/viewtopic.php?f=6&t=5820) by GeekDude - A class aiming to make using low-level GDI functions simple.
 
@@ -104,6 +105,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 #### Filesystem <a name="scripts-filesystem"></a>
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc).
+
+#### Graphics <a name="scripts-graphics"></a>
+* [Fun with GDIPlus](http://ahkscript.org/boards/viewtopic.php?f=6&t=6071) - Interesting GDI+ examples.
 
 #### GUI <a name="scripts-gui"></a>
 * [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
