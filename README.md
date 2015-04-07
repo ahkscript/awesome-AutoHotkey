@@ -12,6 +12,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Graphics](#graphics)
     - [GUI](#gui)
     - [Hotkeys](#hotkeys)
+    - [Lists](#lists)
     - [Maths](#maths)
     - [Sockets](#sockets)
     - [Text manipulation](#text-manipulation)
@@ -64,8 +65,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
 #### Hotkeys
-* [HotClass](http://ahkscript.org/boards/viewtopic.php?f=6&t=6105) by evilC - Dynamic Hotkey and Binding system
+* [HotClass](http://ahkscript.org/boards/viewtopic.php?f=6&t=6105) by evilC - Dynamic Hotkey and Binding system.
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
+
+#### Lists
+*  [List manipulation functions](http://www.hars.us/SW/List.ahk) by Laszlo - Function library to manipulate comma delimited lists. Forum [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
 #### Maths
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
