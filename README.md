@@ -181,7 +181,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ## Tutorials
 *List of useful AutoHotkey tutorials.*
 
-#### Classes <a name="tutorials-classes"></a>
+#### <a name="tutorials-classes"></a>Classes
 * [Classes in AHK, Basic tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial.
 * [Classes in AHK, a Dissection (Advanced)](http://ahkscript.org/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial.
 
