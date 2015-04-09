@@ -36,6 +36,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [(Use in) other programming languages](#use-in-other-programming-languages)
   - [Tutorials](#tutorials)
     - [Classes](#tutorials-classes)
+    - [GUI](#tutorials-gui)
     - [MCode (machine code)](#tutorials-mcode)
   - [Resources](#resources)
     - [Documentation](#documentation)
@@ -181,11 +182,14 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *List of useful AutoHotkey tutorials.*
 
 #### Classes <a name="tutorials-classes"></a>
-* [Classes in AHK, Basic tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial made by samardac.
-* [Classes in AHK, a Dissection (Advanced)](http://ahkscript.org/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial made by GeekDude.
+* [Classes in AHK, Basic tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial.
+* [Classes in AHK, a Dissection (Advanced)](http://ahkscript.org/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial.
+
+#### Gui <a name="tutorials-gui"></a>
+* [Use HTML and CSS for your GUIs!](http://ahkscript.org/boards/viewtopic.php?f=7&t=4588) - Using HTML and CSS for creating GUIs.
 
 #### MCode (machine code) <a name="tutorials-mcode"></a>
-* [MCode Tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial made by nnnik.
+* [MCode Tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial.
 
 <br>
 ## Resources
