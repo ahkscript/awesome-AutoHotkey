@@ -186,3 +186,4 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Websites
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey downloads and documentation. Hosts the official AutoHotkey forum.
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts an outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* It also hosts a forum.
+* [ahkscript github organization](https://github.com/ahkscript) - Official ahkscript github organization.
