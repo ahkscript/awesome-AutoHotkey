@@ -35,6 +35,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Others](#tools-others)
     - [(Use in) other programming languages](#use-in-other-programming-languages)
   - [Tutorials](#tutorials)
+    - [Classes](#tutorials-classes)
     - [MCode (machine code)](#tutorials-mcode)
   - [Resources](#resources)
     - [Documentation](#documentation)
@@ -178,6 +179,10 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 <br>
 ## Tutorials
 *List of useful AutoHotkey tutorials.*
+
+#### Classes <a name="tutorials-classes"></a>
+* [Classes in AHK, Basic tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial made by samardac.
+* [Classes in AHK, a Dissection (Advanced)](http://ahkscript.org/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial made by GeekDude.
 
 #### MCode (machine code) <a name="tutorials-mcode"></a>
 * [MCode Tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial made by nnnik.
