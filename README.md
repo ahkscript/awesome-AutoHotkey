@@ -34,6 +34,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Web Syntax Highlighters](#web-syntax-highlighters)
     - [Others](#tools-others)
     - [(Use in) other programming languages](#use-in-other-programming-languages)
+  - [Tutorials](#tutorials)
+    - [MCode (machine code)](#tutorials-mcode)
   - [Resources](#resources)
     - [Documentation](#documentation)
     - [Quick-start guides](#quick-start-guides)
@@ -172,6 +174,13 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Embed Python](https://github.com/tinku99/embedpython) - Forum [link](http://www.autohotkey.com/forum/topic51591.html)
 * [PAHK](https://code.google.com/p/pahk/) - Forum [link](http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/).
+
+<br>
+## Tutorials
+*List of useful AutoHotkey tutorials.*
+
+#### MCode (machine code) <a name="tutorials-mcode"></a>
+* [MCode Tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial made by nnnik.
 
 <br>
 ## Resources
