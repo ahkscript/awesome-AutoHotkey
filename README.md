@@ -2,6 +2,7 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ahkscript/awesome-AutoHotkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![gh-pages](https://cloud.githubusercontent.com/assets/1973899/5237387/2c8f8372-7881-11e4-91f6-fb46690eb875.png)](https://ahkscript.github.io/awesome-AutoHotkey)  
 A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) before contributing.
 
+<br>
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 - [Awesome AutoHotkey](#awesome-autohotkey)
   - [Libraries](#libraries)
@@ -9,16 +10,19 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Console](#console)
     - [Database](#database)
     - [Filesystem](#filesystem)
-    - [Graphics](#graphics)
+    - [Graphics](#libraries-graphics)
     - [GUI](#gui)
     - [Hotkeys](#hotkeys)
+    - [Lists](#lists)
     - [Maths](#maths)
+    - [Plotting(Graphs, bars, charts and etc)](#libraries-plotting)
     - [Sockets](#sockets)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
     - [Clipboard](#scripts-clipboard)
     - [Filesystem](#scripts-filesystem)
+    - [Graphics](#scripts-graphics)
     - [GUI](#scripts-gui)
     - [Mouse](#mouse)
     - [Typing](#typing)
@@ -32,6 +36,10 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Web Syntax Highlighters](#web-syntax-highlighters)
     - [Others](#tools-others)
     - [(Use in) other programming languages](#use-in-other-programming-languages)
+  - [Tutorials](#tutorials)
+    - [Classes](#tutorials-classes)
+    - [GUI](#tutorials-gui)
+    - [MCode (machine code)](#tutorials-mcode)
   - [Resources](#resources)
     - [Documentation](#documentation)
     - [Quick-start guides](#quick-start-guides)
@@ -46,8 +54,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 #### Console
-* [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum [link](http://ahkscript.org/boards/viewtopic.php?t=17)
-* [AHKonsole](https://github.com/G33kDude/Console) - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955)
+* [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum [link](http://ahkscript.org/boards/viewtopic.php?t=17).
+* [AHKonsole](https://github.com/G33kDude/Console) - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955).
 
 #### Database
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - An OOP-SQL database access framework. Forum [link](http://www.autohotkey.com/board/topic/71179-).
@@ -55,8 +63,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
 
-#### Graphics
-* [GDIp](https://github.com/tariqporter/Gdip/) - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6517).
+#### <a name="libraries-graphics"></a>Graphics
+* [GDIp](https://github.com/tariqporter/Gdip/) by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6517).
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
 * [Simple GDI class](http://ahkscript.org/boards/viewtopic.php?f=6&t=5820) by GeekDude - A class aiming to make using low-level GDI functions simple.
 
@@ -64,12 +72,20 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
 #### Hotkeys
-* [HotClass](http://ahkscript.org/boards/viewtopic.php?f=6&t=6105) by evilC - Dynamic Hotkey and Binding system
+* [HotClass](http://ahkscript.org/boards/viewtopic.php?f=6&t=6105) by evilC - Dynamic Hotkey and Binding system.
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
+
+#### Lists
+*  [List manipulation functions](http://www.hars.us/SW/List.ahk) by Laszlo - Function library to manipulate comma delimited lists. Forum [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
 #### Maths
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs (discontinued) - Evaluate AutoHotkey expressions and mathematical statements dynamically.
+
+#### <a name="libraries-plotting"></a>Plotting(Graphs, bars, charts and etc)
+* [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
+* [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
+* [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - Function library for graphically plotting real time data.
 
 #### Sockets
 * [AHKsock](http://www.autohotkey.com/board/topic/53827-) - Function based sockets library. Supports TCP.
@@ -77,7 +93,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 #### Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
-* [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) by tidbit - Stand-alone string manipulation functions
+* [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) by tidbit - Stand-alone string manipulation functions.
 
 <br>
 ## Library Distributions
@@ -95,22 +111,25 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
-#### Clipboard <a name="scripts-clipboard"></a>
+#### <a name="scripts-clipboard"></a>Clipboard
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [Github](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](http://ahkscript.org/boards/viewtopic.php?f=6&t=401), [link 2](http://www.autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
-#### Filesystem <a name="scripts-filesystem"></a>
-* [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc)
+#### <a name="scripts-filesystem"></a>Filesystem
+* [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc).
 
-#### GUI <a name="scripts-gui"></a>
+#### <a name="scripts-graphics"></a>Graphics
+* [Fun with GDIPlus](http://ahkscript.org/boards/viewtopic.php?f=6&t=6071) - Interesting GDI+ examples.
+
+#### <a name="scripts-gui"></a>GUI
 * [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
 
 #### Mouse
-* [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648)
+* [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648).
 
 #### Typing
-* [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/)
+* [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) Github [link](https://github.com/ManiacDC/TypingAid).
-* [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193)
+* [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193).
 
 <br>
 ## Tools
@@ -120,14 +139,15 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AutoHotkey](http://ahkscript.org/download/) - AutoHotkey interpreter installer and binaries.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum [link](http://www.autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB) - Autohotkey for Pocket PCs / WinCE / Smartphones. Forum [link](http://www.autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/). Documentation [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/).
-* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*
+* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
 #### Debugging
 * [[Class] Console](http://ahkscript.org/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. Github [link](https://github.com/AfterLemon/Class_Console).
+* [Print Array](http://www.autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
 
 #### Decompilers
-* [AutoHotkey decompiler](http://ge.tt/8zMaRUW1/v/6) - for AHK 1.1+ Forum [link](http://www.autohotkey.com/community/viewtopic.php?f=13&t=89275) 
-* [AutoHotkey decompiler - classic](http://www.autohotkey.com/docs/Scripts.htm#exe2ahk) - for AHK 1.0 does not work with password or /nodecompile protected files
+* [AutoHotkey decompiler](http://ge.tt/8zMaRUW1/v/6) - for AHK 1.1+ Forum [link](http://www.autohotkey.com/community/viewtopic.php?f=13&t=89275).
+* [AutoHotkey decompiler - classic](http://www.autohotkey.com/docs/Scripts.htm#exe2ahk) - for AHK 1.0 does not work with password or /nodecompile protected files.
 
 #### Integrated Development Environment
 * [AHK Studio](http://ahkscript.org/boards/viewtopic.php?f=6&t=300) - SciLexer.dll based IDE for AutoHotkey.
@@ -154,16 +174,30 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 #### (Use in) other programming languages
 
-* [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4633)
+* [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](http://ahkscript.org/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
-* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk)
-* [LibLua](http://www.autohotkey.com/forum/topic44204.html) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/p/wow-vending-machine/source/browse/trunk/WoWDriver/Lib/?r=37)* 
-* [Machine code functions: Bit Wizardry](http://www.autohotkey.com/forum/topic21172.html) - Tutorial [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4642)
+* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk).
+* [LibLua](http://www.autohotkey.com/forum/topic44204.html) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/p/wow-vending-machine/source/browse/trunk/WoWDriver/Lib/?r=37)*.
+* [Machine code functions: Bit Wizardry](http://www.autohotkey.com/forum/topic21172.html) - Tutorial [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4642).
 * [Embed Lisp](https://github.com/tinku99/ahklisp) - Forum [link](http://www.autohotkey.com/board/topic/39620-ahklisp-lisp-on-win32-with-cffi-sbcl-and-autohotkey/)
-* [Embed Perl](http://www.autohotkey.com/forum/topic12333.html) - Forum [link](http://www.autohotkey.com/forum/topic12333.html) 
+* [Embed Perl](http://www.autohotkey.com/forum/topic12333.html) - Forum [link](http://www.autohotkey.com/forum/topic12333.html).
 * [Embed Python](https://github.com/tinku99/embedpython) - Forum [link](http://www.autohotkey.com/forum/topic51591.html)
-* [PAHK](https://code.google.com/p/pahk/) - Forum [link](http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/)
-* [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/)
+* [PAHK](https://code.google.com/p/pahk/) - Forum [link](http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
+* [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/).
+
+<br>
+## Tutorials
+*List of useful AutoHotkey tutorials.*
+
+#### <a name="tutorials-classes"></a>Classes
+* [Classes in AHK, Basic tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial.
+* [Classes in AHK, a Dissection (Advanced)](http://ahkscript.org/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial.
+
+#### <a name="tutorials-gui"></a>GUI
+* [Use HTML and CSS for your GUIs!](http://ahkscript.org/boards/viewtopic.php?f=7&t=4588) - Using HTML and CSS for creating GUIs.
+
+#### <a name="tutorials-mcode"></a>MCode (machine code)
+* [MCode Tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial.
 
 <br>
 ## Resources
@@ -173,8 +207,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
 
 #### Quick-start guides
-* [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27)
+* [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27).
 
 #### Websites
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey downloads and documentation. Hosts the official AutoHotkey forum.
-* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts an outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L!) and documentation!* It also hosts a forum.
+* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated AutoHotkey documentation (AutoHotkey Basic, not AutoHotkey_L!)!* It also hosts a forum.
+* [ahkscript github organization](https://github.com/ahkscript) - Official ahkscript github organization.
