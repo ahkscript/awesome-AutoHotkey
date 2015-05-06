@@ -42,6 +42,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [MCode (machine code)](#tutorials-mcode)
   - [Resources](#resources)
     - [Documentation](#documentation)
+    - [Books](#books)
     - [Quick-start guides](#quick-start-guides)
     - [Websites](#websites)
 
@@ -205,6 +206,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 #### Documentation
 * [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
+ 
+#### Books
+* [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (not completed yet). Forum thread: [link](http://www.autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
 
 #### Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27).
