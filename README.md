@@ -214,8 +214,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27).
 
 #### Websites
-* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey downloads and documentation. Hosts the official AutoHotkey forum.
-* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated AutoHotkey documentation (AutoHotkey Basic, not AutoHotkey_L!)!* It also hosts a forum.
+* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey.
+* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey.
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
 
 
