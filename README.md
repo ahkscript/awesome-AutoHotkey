@@ -206,7 +206,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
 #### Documentation
-* [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation.
+* [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs).
  
 #### Books
 * [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (not completed yet). Forum thread: [link](http://www.autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
