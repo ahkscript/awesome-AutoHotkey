@@ -14,6 +14,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Graphics](#libraries-graphics)
     - [GUI](#gui)
     - [Hotkeys](#hotkeys)
+    - [Joystick](#joystick)
     - [Lists](#lists)
     - [Maths](#maths)
     - [Plotting(Graphs, bars, charts and etc)](#libraries-plotting)
@@ -76,6 +77,10 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### Hotkeys
 * [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc.
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
+
+#### Joystick
+* [CvJoyInterface](http://ahkscript.org/boards/viewtopic.php?t=5705) by evilC - Control a vJoy virtual joystick using AHK.
+* [XInput](http://www.autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/) by Lexikos - Read XBOX gamepads using XInput (Only way to independently read L/R triggers), control rumble motors.
 
 #### Lists
 *  [List manipulation functions](http://www.hars.us/SW/List.ahk) by Laszlo - Function library to manipulate comma delimited lists. Forum [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
