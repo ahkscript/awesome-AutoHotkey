@@ -75,7 +75,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
 #### Hotkeys
-* [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc.
+* [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 #### Joystick
