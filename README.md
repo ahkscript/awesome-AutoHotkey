@@ -30,8 +30,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Typing](#typing)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
-    - [Decompilers](#decompilers)
     - [Debugging](#debugging)
+    - [Decompilers](#decompilers)
     - [Integrated Development Environment](#integrated-development-environment)
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Script Recorders and Writers](#script-recorders-and-writers)
@@ -50,20 +50,20 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 <br><hr><br>
 
-## Libraries
+##  <a name="libraries"></a>Libraries
 *List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
-#### Clipboard
+#### <a name="clipboard"></a>Clipboard
 * [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
-#### Console
+#### <a name="console"></a>Console
 * [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum [link](http://ahkscript.org/boards/viewtopic.php?t=17).
 * [AHKonsole](https://github.com/G33kDude/Console) - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955).
 
-#### Database
+#### <a name="database"></a>Database
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - An OOP-SQL database access framework. Forum [link](http://www.autohotkey.com/board/topic/71179-).
 
-#### Filesystem
+#### <a name="filesystem"></a>Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
 
 #### <a name="libraries-graphics"></a>Graphics
@@ -71,21 +71,21 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
 * [Simple GDI class](http://ahkscript.org/boards/viewtopic.php?f=6&t=5820) by GeekDude - A class aiming to make using low-level GDI functions simple.
 
-#### GUI
+#### <a name="gui"></a>GUI
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
-#### Hotkeys
+#### <a name="hotkeys"></a>Hotkeys
 * [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
-#### Joystick
+#### <a name="joystick"></a>Joystick
 * [CvJoyInterface](http://ahkscript.org/boards/viewtopic.php?t=5705) by evilC - Control a vJoy virtual joystick using AHK.
 * [XInput](http://www.autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/) by Lexikos - Read XBOX gamepads using XInput (Only way to independently read L/R triggers), control rumble motors.
 
-#### Lists
-*  [List manipulation functions](http://www.hars.us/SW/List.ahk) by Laszlo - Function library to manipulate comma delimited lists. Forum [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
+#### <a name="lists"></a>Lists
+* [List manipulation functions](http://www.hars.us/SW/List.ahk) by Laszlo - Function library to manipulate comma delimited lists. Forum [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
-#### Maths
+#### <a name="maths"></a>Maths
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs (discontinued) - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 
@@ -94,16 +94,16 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
 * [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - Function library for graphically plotting real time data.
 
-#### Sockets
+#### <a name="sockets"></a>Sockets
 * [AHKsock](http://www.autohotkey.com/board/topic/53827-) - Function based sockets library. Supports TCP.
 * [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - Class based sockets library. Supports TCP and UDP.
 
-#### Text manipulation
+#### <a name="text-manipulation"></a>Text manipulation
 * [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 * [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) by tidbit - Stand-alone string manipulation functions.
 
 <br>
-## Library Distributions
+## <a name="library-distributions"></a>Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
@@ -115,7 +115,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [ahklib](https://github.com/ahklib) (discontinued) - Uberi and infogulch's AutoHotkey library.
 
 <br>
-## Scripts
+
+## <a name="scripts"></a>Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
 #### <a name="scripts-clipboard"></a>Clipboard
@@ -130,33 +131,33 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 #### <a name="scripts-gui"></a>GUI
 * [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
 
-#### Mouse
+#### <a name="mouse"></a>Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648).
 
-#### Typing
+#### <a name="typing"></a>Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) GitHub [link](https://github.com/ManiacDC/TypingAid).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193).
 
 <br>
-## Tools
+## <a name="tools"></a>Tools
 *List of useful AutoHotkey tools. Tools made for Autohotkey*
 
-#### Interpreter
+#### <a name="interpreter"></a>Interpreter
 * [AutoHotkey](http://ahkscript.org/download/) - AutoHotkey interpreter installer and binaries.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum [link](http://www.autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB) - Autohotkey for Pocket PCs / WinCE / Smartphones. Forum [link](http://www.autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/). Documentation [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/).
 * [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
-#### Debugging
+#### <a name="debugging"></a>Debugging
 * [[Class] Console](http://ahkscript.org/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
 * [Print Array](http://www.autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
 
-#### Decompilers
+#### <a name="decompilers"></a>Decompilers
 * [AutoHotkey decompiler](http://ge.tt/8zMaRUW1/v/6) - for AHK 1.1+ Forum [link](http://www.autohotkey.com/community/viewtopic.php?f=13&t=89275).
 * [AutoHotkey decompiler - classic](http://www.autohotkey.com/docs/Scripts.htm#exe2ahk) - for AHK 1.0 does not work with password or /nodecompile protected files.
 
-#### Integrated Development Environment
+#### <a name="#integrated-development-environment"></a>Integrated Development Environment
 * [AHK Studio](http://ahkscript.org/boards/viewtopic.php?f=6&t=300) - SciLexer.dll based IDE for AutoHotkey.
 * [DRAKON Editor](http://ahkscript.org/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](http://ahkscript.org/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
@@ -164,13 +165,13 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
 * [Sublime 4 AutoHotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) (discontinued) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey.
 
-#### GUI WYSIWYG Builders
+#### <a name="gui-wysiwyg-builders"></a>GUI WYSIWYG Builders
 * [GUI Creator (formerly Basic GUI Creator)](http://ahkscript.org/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
 
-#### Script Recorders and Writers
+#### <a name="script-recorders-and-writers"></a>Script Recorders and Writers
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator).
 
-#### Web Syntax Highlighters
+#### <a name="web-syntax-highlighters"></a>Web Syntax Highlighters
 * [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 
@@ -179,7 +180,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Context sensitive help in any editor](http://www.autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
 * [CodeQuickTester](http://ahkscript.org/boards/viewtopic.php?f=6&t=6113) by GeekDude - A lightweight dynamic code tester.
 
-#### (Use in) other programming languages
+#### <a name="use-in-other-programming-languages"></a>(Use in) other programming languages
 
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](http://ahkscript.org/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
@@ -193,7 +194,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/).
 
 <br>
-## Tutorials
+## <a name="tutorials"></a>Tutorials
 *List of useful AutoHotkey tutorials.*
 
 #### <a name="tutorials-classes"></a>Classes
@@ -207,19 +208,19 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [MCode Tutorial](http://ahkscript.org/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial.
 
 <br>
-## Resources
+##  <a name="resources"></a>Resources
 *List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
-#### Documentation
+#### <a name="documentation"></a>Documentation
 * [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs).
  
-#### Books
+#### <a name="books"></a>Books
 * [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (not completed yet). Forum thread: [link](http://www.autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
 
-#### Quick-start guides
+#### <a name="quick-start-guides"></a>Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27).
 
-#### Websites
+#### <a name="websites"></a>Websites
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey.
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey.
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
