@@ -1,51 +1,30 @@
-@import url('reset.css');
-
-a:visited
-{
-	color: blue;
+/* css reset - makes the layout looking good in all browsers */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline; 
 }
 
-body
-{
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block; 
+}
+body {
+	line-height: 1.2em; 
 	background: #f0f0f0;
-	margin:0;
-	padding:0;
-}
+	}
+	
+ol, ul {
+	list-style: none; }
 
-.wrapper
-{
+#content {
+	font-family: verdana, sans-serif;  
 	font-size: 14pt;
-	font-family: verdana, sans-serif;
-	line-height: initial;
-}
-
-.header
-{
-	background-color: #68758F;
-	padding: 1em;
-}
-
-.header a
-{
-	float: left;
-	color: white;
-	font-size: 1.5em;
-	margin-right: 1em;
-}
-
-.header h1
-{
-	color: white;
-	font-size: 1.5em;
-}
-
-.content
-{
 	padding: 0 1em;
+	line-height: 150%;
 }
 
-.content>a, li
-{
+ul#content li{
 	background: #fff;
 	display: block;
 	border-radius: 0.25em;
@@ -56,10 +35,115 @@ body
 	box-shadow: 2px 2px 4px 1px Gray;
 }
 
-.url
-{
+
+#url {
 	display: block;
+	font-size: 1em;	
 	width: 100%;
 	text-align: center;
-	margin: 0 auto;
+}
+
+/* Main Styles */	
+#wrapper{
+	margin:0 auto;
+}
+
+#nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 70px;
+  background-color: #68758F;
+  margin:0 auto;
+  display:block;
+  font-size: 18pt;
+  font-family: verdana, sans-serif;
+  	
+}
+
+ul#navigation {
+	margin:0px auto;
+	float:left;
+}
+
+ul#navigation li {
+	display:inline;
+	font-size: 18pt;
+
+	background-color: #68758F;
+	margin:0;
+	padding:0;
+	float:left;
+}
+
+ul#navigation li a {
+	padding:1em;
+	color: white;
+	text-decoration:none;
+	display:inline-block;
+	background-color: #68758F;
+}
+
+ul#navigation li a:hover {
+	color: black;
+}
+
+ul#navigation li:hover > a {
+}
+
+/* Drop-Down Navigation */
+ul#navigation li:hover > ul
+{
+	visibility:visible;
+	opacity:1;
+}
+
+ul#navigation ul, ul#navigation ul li ul {
+	list-style: none;
+    margin: 0;
+    padding: 0;    
+	visibility:hidden;
+    position: absolute;
+    z-index: 99999;
+	width:180px;
+	background:#68758F;
+}
+
+ul#navigation ul {
+    top: 43px;
+    left: 1px;
+}
+
+ul#navigation ul li ul {
+    top: 0;
+    left: 181px;
+}
+
+ul#navigation ul li {
+	clear:both;
+	width:100%;
+	border:0 none;
+	border-bottom:1px solid #c9c9c9;
+}
+
+ul#navigation ul li a {
+	background:none;
+	padding:7px 15px;
+	color:#616161;
+	text-decoration:none;
+	display:inline-block;
+	border:0 none;
+	float:left;
+	clear:both;
+	width:150px;
+}
+
+ul#navigation li a.first {
+	border-left: 0 none;
+}
+
+ul#navigation li a.last {
+	border-right: 0 none;
 }

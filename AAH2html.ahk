@@ -2,22 +2,27 @@ PageTemplate =
 (
 <html>
 	<head>
+		<meta charset="ISO-8859-1">
 		<title>ScriptList - {{SECTION}}</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="awesome-AutoHotkey List">
 		<link rel="stylesheet" type="text/css" href="main.css">
 	</head>
 	<body>
 		<div class="wrapper">
-			<div class="header">
-				<a href="index.html">ScriptList</a>
-				<h1>{{SECTION}}</h1>
-			</div>
-			<div class="content">
-				<ul>{{ENTRIES}}
+			<nav id="nav-bar">
+				<ul id="navigation">
+					<li><a href="index.html">ScriptList</a></li>
+					<li><a href="#top">{{SECTION}}</a></li>
+				</ul>
+			</nav>
+			<div id="content">
+				<br/><br/><br/><br/>
+				<ul id="content">
+					{{ENTRIES}}
 				</ul>
 			</div>
-			<div class="footer">
-				
+			<div id="footer">
 			</div>
 		</div>
 	</body>
@@ -27,8 +32,8 @@ PageTemplate =
 EntryTemplate =
 (
 					<li>
-						<a class="url" href="{{URL}}">{{NAME}}</a>
-						<span class="description">{{DESCRIPTION}}</span>
+						<a id="url" href="{{URL}}">{{NAME}}</a>
+						<span id="description">{{DESCRIPTION}}</span>
 					</li>
 )
 EntryTemplate := "`t`t`t`t`t" EntryTemplate ; Workaround for weird continuation section issue
