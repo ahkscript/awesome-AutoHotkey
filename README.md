@@ -17,7 +17,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Joystick](#joystick)
     - [Lists](#lists)
     - [Maths](#maths)
-    - [Plotting(Graphs, bars, charts and etc)](#libraries-plotting)
+    - [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
     - [Sockets](#sockets)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
@@ -94,7 +94,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs (discontinued) - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 
-### <a name="libraries-plotting"></a>Plotting(Graphs, bars, charts and etc)
+### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
 * [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - Function library for graphically plotting real time data.
