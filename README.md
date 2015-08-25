@@ -140,6 +140,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/).
+* [Lintalist](http://lintalist.github.io/) -  Searchable interactive lists to copy & paste text with plugins. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3378).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) GitHub [link](https://github.com/ManiacDC/TypingAid).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193).
 
