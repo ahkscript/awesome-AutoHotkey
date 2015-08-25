@@ -10,7 +10,7 @@ PageTemplate =
 		<div class="wrapper">
 			<div class="header">
 				<a href="index.html">ScriptList</a>
-				<h1>{{SECTION}}</h2>
+				<h1>{{SECTION}}</h1>
 			</div>
 			<div class="content">
 				<ul>{{ENTRIES}}
