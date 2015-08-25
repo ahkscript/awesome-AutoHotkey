@@ -76,7 +76,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
 
 #### ListView
-* [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) by just Me -  Individual background and/or text colours for a GUI ListView's cells or rows. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=1081)
+* [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=1081)
+* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) by just Me - In-cell editing for ListView controls. Forum [link](http://http://ahkscript.org/boards/viewtopic.php?f=6&t=1076)
 
 ### Hotkeys
 * [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
