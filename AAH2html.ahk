@@ -43,29 +43,67 @@ FileRead, Input, README.md
 
 Entries := []
 Sections := []
+
+SectionHierarchy := []
+EntriesNEW := []
+Section2Name := "_EMPTY_"
+Section3Name := "_EMPTY_"
+Section4Name := "_EMPTY_"
+
 for each, Line in StrSplit(Input, "`n", "`r")
 {
-	if RegExMatch(Line, "^##\s+(.*)$", Match) ; New section
+	
+	if RegExMatch(Line, "^##") ; New section
 	{
-		if (Entries.MaxIndex()) ; Previous section done, so go ahead and write the page
+		if RegExMatch(Line, "^##\s+(.*)\s*$", Match) ; New level 2 section - starting with ##
 		{
-			FileOpen(SectionName ".html", "w").Write(RenderPage(SectionName, Entries))
-			Sections.Insert({URL: SectionName ".html", Name: SectionName}) ; Show in the index page
-			Entries := []
+			if (Entries.MaxIndex()) ; Previous section done, so go ahead and write the page
+			{
+				FileOpen(Section2Name ".html", "w").Write(RenderPage(Section2Name, Entries))
+				Sections.Insert({URL: Section2Name ".html", Name: Section2Name}) ; Show in the index page
+				Entries := []
+			}
+			Section2Name := Match1
+			SectionHierarchy[Section2Name] := []
+			Section3Name := "_EMPTY_"
+			Section4Name := "_EMPTY_"
 		}
-		SectionName := Match1
+		else if RegExMatch(Line, "^###\s+(.*)\s*$", Match) ; New level 3 section - starting with ### 
+		{
+			Section3Name := Match1
+			Section4Name := "_EMPTY_"
+			
+			if !(SectionHierarchy.HasKey(Section2Name))
+				SectionHierarchy[Section2Name] := []
+			SectionHierarchy[Section2Name][Section3Name] := []
+		}
+		else if RegExMatch(Line, "^####\s+(.*)\s*$", Match) ; New level 4 section - starting with ####
+		{
+			Section4Name := Match1
+			if !(SectionHierarchy[Section2Name].HasKey(Section3Name))
+				SectionHierarchy[Section2Name][Section3Name] := []
+			SectionHierarchy[Section2Name][Section3Name][Section4Name] := []
+		}
 	}
 	else if RegExMatch(Line, "^\* \[(?P<Name>.+?)\]\((?P<URL>[^)]+)\)(?: by (?P<Author>[^\-]+?))?(?: - (?P<Desc>.+))?$", Match)
 	{
 		MatchDesc := RegExReplace(MatchDesc, "\[(.*?)\]\((.*?)\)", "<a href='$2'>$1</a>")
 		Entries.Insert({URL:MatchUrl, Name:MatchName, Desc:MatchDesc})
+		
+		if !(SectionHierarchy[Section2Name].HasKey(Section3Name))
+				SectionHierarchy[Section2Name][Section3Name] := []
+		if !(SectionHierarchy[Section2Name][Section3Name].HasKey(Section4Name))
+			SectionHierarchy[Section2Name][Section3Name][Section4Name] := []
+		SectionHierarchy[Section2Name][Section3Name][Section4Name].Insert(MatchName)
+		EntriesNEW[MatchName] := []
+		EntriesNEW[MatchName].Insert({URL:MatchUrl, Name:MatchName, Desc:MatchDesc})
 	}
 }
 
 ; Fill in the last section
 if (Entries.MaxIndex())
 {
-	FileOpen(SectionName ".html", "w").Write(RenderPage(SectionName, Entries))
+	FileOpen(Section2Name ".html", "w").Write(RenderPage(SectionName, Entries))
 	Sections.Insert({URL: SectionName ".html", Name: SectionName})
 	Entries := []
 }
