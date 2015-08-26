@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Please contribute items you have used or are familiar with. This will help ensure high-quality entries.
 - To add item or subsection to the list and if you have rights to commit to the list (member of ahkscript organization) just edit list directly (no need for spesial discussion). If you are not member of ahkscript organization, make an individual pull request for each item.
 - Major changes to the list like adding sections or any other major change needs openning discusion in *Issues* of the current repository.
-- Chose corresponding section (Libraries, Library Distributions, Scripts, Tools, Tutorial or Resources) and subsection for your item.
+- Chose corresponding section (Libraries, Library Distributions, Scripts, Tools, Tutorial or Resources) and subsection for your item. Functions should be added to coresponding subsection of *Library* section (discussion about function placement: [link](https://github.com/ahkscript/awesome-AutoHotkey/issues/35)).
 - Subsections and list items should be sorted *alphabetically*. Exeptions are:
   1. In section **Tools**, subsection *Interpreter* comes first.
   3. In section **Resources**, in subsections *Websites*, *Documentation* and *Quick-start guides*, official ones comes first. 
