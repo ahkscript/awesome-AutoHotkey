@@ -57,11 +57,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 ### Console
-* [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum [link](http://ahkscript.org/boards/viewtopic.php?t=17).
 * [AHKonsole](https://github.com/G33kDude/Console) - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955).
+* [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum [link](http://ahkscript.org/boards/viewtopic.php?t=17).
 
 ### Database
-* [ahkDBA](https://github.com/IsNull/ahkDBA) - An OOP-SQL database access framework. Forum [link](http://www.autohotkey.com/board/topic/71179-).
+* [ahkDBA](https://github.com/IsNull/ahkDBA) - An OOP-SQL database access framework. Forum [link](http://www.autohotkey.com/board/topic/71179).
 
 ### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
@@ -91,8 +91,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *  [List manipulation functions](http://www.hars.us/SW/List.ahk) by Laszlo - Function library to manipulate comma delimited lists. Forum [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
 ### Maths
-* [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs (discontinued) - Evaluate AutoHotkey expressions and mathematical statements dynamically.
+* [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
@@ -104,20 +104,20 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - Class based sockets library. Supports TCP and UDP.
 
 ### Text manipulation
-* [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 * [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) by tidbit - Stand-alone string manipulation functions.
+* [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 <br>
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
-* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
-* [ALD](http://libba.net/) (discontinued) - AutoHotkey Library Distribution system.
-* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) (discontinued) - Ahk Standard Library Collection by Tuncay. Old forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).
-* [Salt](https://code.google.com/p/salt/) (discontinued) - Standard AutoHotkey Library Transfer.
 * [ahklib](https://github.com/ahklib) (discontinued) - Uberi and infogulch's AutoHotkey library.
+* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) (discontinued) - Ahk Standard Library Collection by Tuncay. Old forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).
+* [ALD](http://libba.net/) (discontinued) - AutoHotkey Library Distribution system.
+* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
+* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
+* [Salt](https://code.google.com/p/salt/) (discontinued) - Standard AutoHotkey Library Transfer.
 
 <br>
 ## Scripts
@@ -142,8 +142,8 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 ### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/).
 * [Lintalist](http://lintalist.github.io/) -  Searchable interactive lists to copy & paste text with plugins. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3378).
-* [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) GitHub [link](https://github.com/ManiacDC/TypingAid).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193).
+* [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) GitHub [link](https://github.com/ManiacDC/TypingAid).
 
 <br>
 ## Tools
@@ -231,8 +231,6 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey.
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey.
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
-
-
 
 <br>
 ## License
