@@ -9,6 +9,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
   - [Libraries](#libraries)
     - [Clipboard](#clipboard)
     - [Console](#console)
+    - [Data format](#libraries-data-format)
     - [Database](#database)
     - [Filesystem](#filesystem)
     - [Graphics](#libraries-graphics)
@@ -60,8 +61,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [AHKonsole](https://github.com/G33kDude/Console) - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955).
 * [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?t=17).
 
+### <a name="libraries-data-format"></a>Data format
+* * [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=627).
+
 ### Database
-* [ahkDBA](https://github.com/IsNull/ahkDBA) - An OOP-SQL database access framework. Forum thread: [link](http://www.autohotkey.com/board/topic/71179).
+* [ahkDBA](https://github.com/IsNull/ahkDBA) by IsNull - An OOP-SQL database access framework. Forum thread: [link](http://www.autohotkey.com/board/topic/71179).
 
 ### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
