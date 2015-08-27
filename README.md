@@ -137,6 +137,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648).
+* [Radial Menu](http://www.autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) -  Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum [link](http://www.autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
 ### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/).
