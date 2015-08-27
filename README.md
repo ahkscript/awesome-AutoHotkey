@@ -113,7 +113,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
 * [ahklib](https://github.com/ahklib) (discontinued) - Uberi and infogulch's AutoHotkey library.
-* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) (discontinued) - Ahk Standard Library Collection by Tuncay. Old forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).
+* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) (discontinued) - Ahk Standard Library Collection by Tuncay. Forum [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).
 * [ALD](http://libba.net/) (discontinued) - AutoHotkey Library Distribution system.
 * [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
@@ -222,7 +222,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs).
  
 ### Books
-* [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (not completed yet). Forum thread: [link](http://www.autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
+* [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (not completed yet). Forum [link](http://www.autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
 
 ### Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27).
