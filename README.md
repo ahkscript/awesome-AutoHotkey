@@ -95,7 +95,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *  [List manipulation functions](http://www.hars.us/SW/List.ahk) - by Laszlo - Function library to manipulate comma delimited lists. Forum thread: [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
 ### Maths
-* [Eval](http://www.autohotkey.com/board/topic/82823-)  - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (*discontinued*)
+* [Eval](http://www.autohotkey.com/board/topic/82823-)  - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (discontinued)
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
@@ -118,9 +118,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
 * [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
-* [ahklib](https://github.com/ahklib) - Uberi and infogulch's AutoHotkey library. - (*discontinued*)
-* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) - Ahk Standard Library Collection by Tuncay. Forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).- (*discontinued*)
-* [Salt](https://code.google.com/p/salt/) - Standard AutoHotkey Library Transfer. - (*discontinued*)
+* [ahklib](https://github.com/ahklib) - Uberi and infogulch's AutoHotkey library. - (discontinued)
+* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) - Ahk Standard Library Collection by Tuncay. Forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).- (discontinued)
+* [Salt](https://code.google.com/p/salt/) - Standard AutoHotkey Library Transfer. - (discontinued)
 
 <br>
 ## Scripts
@@ -173,7 +173,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Notepad++ for AutoHotkey](http://ahkscript.org/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
 * [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
-* [Sublime 4 AutoHotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (*discontinued*)
+* [Sublime 4 AutoHotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
 
 ### GUI WYSIWYG Builders
 * [GUI Creator (formerly Basic GUI Creator)](http://ahkscript.org/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
