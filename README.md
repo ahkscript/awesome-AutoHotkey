@@ -64,11 +64,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### <a name="libraries-data-format"></a>Data format
 * [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=627).
+* [ObjDump/ObjLoad](http://ahkscript.org/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
+* [XA](https://github.com/hi5/CL3/blob/master/lib/XA.ahk) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](http://www.autohotkey.com/board/topic/85461-ahk-l-saveload-arrays/).
 
 ### Database
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](http://www.autohotkey.com/board/topic/71179).
-* [ObjDump/ObjLoad](http://ahkscript.org/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
-* [XA](https://github.com/hi5/CL3/blob/master/lib/XA.ahk) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](http://www.autohotkey.com/board/topic/85461-ahk-l-saveload-arrays/).
 
 ### Filesystem
 * [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
