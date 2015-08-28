@@ -115,7 +115,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Text manipulation
 * [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
-* [TF](https://github.com/hi5/TF) - bi hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
+* [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 <br>
 ## Library Distributions
