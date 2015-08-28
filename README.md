@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ahkscript/awesome-AutoHotkey.png?label=ready&title=Ready)](https://waffle.io/ahkscript/awesome-AutoHotkey)
 # Awesome AutoHotkey
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ahkscript/awesome-AutoHotkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![gh-pages](https://cloud.githubusercontent.com/assets/1973899/5237387/2c8f8372-7881-11e4-91f6-fb46690eb875.png)](https://ahkscript.github.io/awesome-AutoHotkey)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
