@@ -55,11 +55,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
 ### Clipboard
-* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
+* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - by Deo - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: [link](http://www.autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 ### Console
-* [AHKonsole](https://github.com/G33kDude/Console) - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955).
-* [LibCon](https://github.com/joedf/LibCon.ahk) - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?t=17).
+* [AHKonsole](https://github.com/G33kDude/Console) - by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4955).
+* [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?t=17).
 
 ### <a name="libraries-data-format"></a>Data format
 * [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum  [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=627).
@@ -68,16 +68,16 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](http://www.autohotkey.com/board/topic/71179).
 
 ### Filesystem
-* [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - Functions for retrieving extended file properties.
+* [FileGetProperties](http://ahkscript.org/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
 
 ### <a name="libraries-graphics"></a>Graphics
 * [GDIp](https://github.com/tariqporter/Gdip/) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6517).
-* [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - Library using gdiplus.dll for searching image instances on the screen.
+* [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen.
 * [Simple GDI class](http://ahkscript.org/boards/viewtopic.php?f=6&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
 
 ### <a name="libraries-gui"></a>GUI
 #### General
-* [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - Move and resize controls automatically when a GUI is resized.
+* [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - by tmplinshi - Move and resize controls automatically when a GUI is resized.
 
 #### ListView
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=1081)
@@ -85,7 +85,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Hotkeys
 * [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
-* [HParse](http://www.autohotkey.com/board/topic/92805-) - Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
+* [HParse](http://www.autohotkey.com/board/topic/92805-) - by Avi -  Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 ### Joystick
 * [CvJoyInterface](http://ahkscript.org/boards/viewtopic.php?t=5705) - by evilC - Control a vJoy virtual joystick using AHK.
@@ -96,20 +96,20 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Maths
 * [Eval](http://www.autohotkey.com/board/topic/82823-)  - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (discontinued)
-* [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
+* [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
-* [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
-* [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
-* [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - Function library for graphically plotting real time data.
+* [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
+* [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
+* [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - by Skan - Function library for graphically plotting real time data.
 
 ### Sockets
-* [AHKsock](http://www.autohotkey.com/board/topic/53827-) - Function based sockets library. Supports TCP.
-* [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - Class based sockets library. Supports TCP and UDP.
+* [AHKsock](http://www.autohotkey.com/board/topic/53827-) - by TheGood - Function based sockets library. Supports TCP.
+* [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - by Bentschi -  Class based sockets library. Supports TCP and UDP.
 
 ### Text manipulation
 * [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
-* [TF](https://github.com/hi5/TF) - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
+* [TF](https://github.com/hi5/TF) - bi hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 <br>
 ## Library Distributions
