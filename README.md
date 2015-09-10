@@ -30,6 +30,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [GUI](#scripts-gui)
     - [Mouse](#mouse)
     - [Typing](#typing)
+    - [Window management](#windowmanagement)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Decompilers](#decompilers)
@@ -153,6 +154,11 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Lintalist](http://lintalist.github.io/) -  Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?p=249193#249193).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum thread: [link](http://www.autohotkey.com/board/topic/49517-typingaid-v219d-word-autocompletion-utility/) GitHub [link](https://github.com/ManiacDC/TypingAid).
+
+### Window Management
+* [bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager. Forum thread: [link](http://www.autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
+* [Min2Tray](http://junyx.breadfan.de/Min2Tray) - Minimize window to tray & more. Forum thread: [link](http://www.autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
+* [WindowPadX](https://github.com/hoppfrosch/WindowPadX) -  tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](http://www.autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
 
 <br>
 ## Tools
