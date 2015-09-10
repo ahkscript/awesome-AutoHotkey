@@ -30,7 +30,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [GUI](#scripts-gui)
     - [Mouse](#mouse)
     - [Typing](#typing)
-    - [Window management](#windowmanagement)
+    - [Window management](#window-management)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Decompilers](#decompilers)
