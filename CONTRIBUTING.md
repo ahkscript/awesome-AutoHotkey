@@ -19,12 +19,20 @@ Please ensure your pull request adheres to the following guidelines:
  4. If the item has any other related links, they should go after description. Like this - Forum thread: [link](http://link) .
 - Use unique html anchor tags for each subsection. More about it [here](https://github.com/ahkscript/awesome-AutoHotkey/issues/12) and [here](https://github.com/ahkscript/awesome-AutoHotkey/issues/2#issuecomment-52114056).
 
+The main page [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) should only contain up-to-date scripts, which work with the latest version of AutoHotkey. Non-up-to-date or discontinued scripts which are historically valueable should be listed on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
+
 ### Quality standards
-To stay on the list, libraries, library distributions, scripts, tools and resource should adhere to these quality standards:
+To stay on the lists, libraries, library distributions, scripts, tools and resource should adhere to these quality standards:
 - Generally useful to the community.
 - Functional.
 - Stable, or progressing toward stable.
 
+To stay on the main list [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) items should
+- work with the current AutoHotkey versions
+
+Items which are historically valueable, but do not work with the current AutoHotkey version should 
+- be moved to [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
+- list the required version of AutoHotkey to run the script
 
 ### Reporting issues
-Please open an issue if you find anything that could be improved or have suggestions for making the list a more valuable resource. Sometimes links may become broken or code become non-functional, please let us know about that kind of issues. Thanks everyone!
+Please [open an issue](https://github.com/ahkscript/awesome-AutoHotkey/issues/new) if you find anything that could be improved or have suggestions for making the list a more valuable resource. Sometimes links may become broken or code become non-functional, please let us know about that kind of issues. Thanks everyone!

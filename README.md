@@ -3,6 +3,8 @@
 
 A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CONTRIBUTING.md) before contributing.
 
+Non-up-to-date or discontinued, but nonetheless historical relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
+
 <br>
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 - [Awesome AutoHotkey](#awesome-autohotkey)
