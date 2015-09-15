@@ -1,6 +1,6 @@
-# Awesome AutoHotkey
+# Historical Awesome AutoHotkey
 
-This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md), which lists up-to-date library distributions, scripts, tools and resources for AutoHotkey. This list contains awesome-Autohotkey library distributions, scripts, tools and resources which **are no longer up-to-date**, **discontinued** but nonetheless **historically valueable**.
+This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md). This list contains awesome-Autohotkey library distributions, scripts, tools and resources which **are no longer up-to-date**, **discontinued** but nonetheless **historically valueable**.
 <br>
 <!-- Note: This table of contents should be identical to TOC in README.md -->
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
