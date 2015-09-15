@@ -202,6 +202,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 
 ### <a name="tools-others"></a>Others
 * [GoTo](http://www.autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
+* [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - Addon which allows jumping to tokens within AHK sourcecode.
 * [Context sensitive help in any editor](http://www.autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
 * [CodeQuickTester](http://ahkscript.org/boards/viewtopic.php?f=6&t=6113) - by GeekDude - A lightweight dynamic code tester.
 
