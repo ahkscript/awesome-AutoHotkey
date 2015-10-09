@@ -161,6 +161,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 ### Window Management
 * [bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager. Forum thread: [link](http://www.autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
 * [Min2Tray](http://junyx.breadfan.de/Min2Tray) - Minimize window to tray & more. Forum thread: [link](http://www.autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
+* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX) -  tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](http://www.autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
 
 <br>
