@@ -151,6 +151,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 
 ### Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648).
+* [MouseGestureL](http://www.vector.co.jp/download/file/winnt/util/fh633547.html) - Control applications by mouse gestures. Gestures and actions can be defined via customizable interface. Documentation in English and Japanese - Japanese Homepage [link](http://hp.vector.co.jp/authors/VA018351/mglahk.html)
 * [Radial Menu](http://www.autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) -  Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread: [link](http://www.autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
 ### Typing
