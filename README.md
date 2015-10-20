@@ -85,6 +85,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 ### <a name="libraries-gui"></a>GUI
 #### General
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - by tmplinshi - Move and resize controls automatically when a GUI is resized.
+* [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - by just Me - enhanced MsgBox for Win Vista+ - [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4635)
 
 #### ListView
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=1081)
