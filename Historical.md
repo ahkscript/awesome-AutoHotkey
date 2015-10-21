@@ -124,11 +124,17 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### GUI WYSIWYG Builders
 
+* [Lilbuilder](http://ge.tt/2mxBDSQ2/v/0?c) - advanced and feature rich GUI form creation tool. It supports custom controls and saving/loading projects. It can also make copy of windows from your existing GUI scripts to help you convert them to builder project files. Forum [link](http://autohotkey.com/board/topic/18489-lil-builder-071/)
+
 ### Script Recorders and Writers
 
 ### Web Syntax Highlighters
 
 ### <a name="tools-others"></a>Others
+
+* [Auto-Syntax-Tidy](http://autohotkey.com/board/topic/7169-auto-syntax-tidy-v12/?p=533545) - Takes a AHK script and changes the indentation and case of commands according to syntax. Forum [link](http://autohotkey.com/board/topic/7169-auto-syntax-tidy-v12/)
+* [Isense54](https://code.google.com/p/isense-x/downloads/list) - command completition and parameter tracking script (intellisense). Forum [link](http://autohotkey.com/board/topic/11853-isense-154/)
+
 
 ### (Use in) other programming languages
 
@@ -147,6 +153,8 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 *List of historical AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
 ### Documentation
+
+* [http://autohotkey.free.fr/docs/](http://autohotkey.free.fr/docs/) - Documentation for AHK 1.0 in French
  
 ### Books
 
