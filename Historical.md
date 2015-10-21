@@ -110,6 +110,8 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Typing
 
+* [Catena](http://normandlamoureux.com/catena/index.html) - Gui interface for AutoHotkey hotstrings
+
 ### Window Management
 
 <br>
