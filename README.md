@@ -180,6 +180,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 ### Debugging
 * [[Class] Console](http://ahkscript.org/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
 * [Print Array](http://www.autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
+* [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
 
 ### Decompilers
 * [AutoHotkey decompiler](http://ge.tt/8zMaRUW1/v/6) - for AHK 1.1+ Forum thread: [link](http://www.autohotkey.com/community/viewtopic.php?f=13&t=89275).
