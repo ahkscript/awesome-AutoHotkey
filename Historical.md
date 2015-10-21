@@ -88,6 +88,8 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Text manipulation
 
+* [TXT](http://autohotkey.com/board/topic/29927-library-for-text-file-manipulation/) - Library for Text file manipulation - predecessor of [TF](https://github.com/hi5/TF)
+
 <br>
 ## Library Distributions
 *List of historical AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
