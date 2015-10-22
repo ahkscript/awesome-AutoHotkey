@@ -78,6 +78,9 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Lists
 
+* [AHKArray](http://ge.tt/3ZornVQ2/v/0?c) - AHKArray provides a way to store multiple variables, as one. It eliminates the necessity for using global variable arrays. Forum [link](http://autohotkey.com/board/topic/13606-ahkarray-real-array-one-variable-version-6/)
+* [SimpleArray](http://ge.tt/5mW4nVQ2/v/0?c) - single variable list/array editing function library focused on speed and simplicity. Forum [link](http://autohotkey.com/board/topic/32078-lib-simplearray-short-fast-string-array-v35/)
+
 ### Maths
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
