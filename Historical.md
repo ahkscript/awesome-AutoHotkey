@@ -59,7 +59,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Console
 
-* [CMDret](http://ge.tt/1oAc1WQ2/v/0?c) - A Dll file designed for retrieving output from console based applications and saving the output in a variable and/or redirecting to a control without displaying the console window or creating/using temporary files. Forum [link](http://autohotkey.com/board/topic/3489-cmdret-return-output-from-console-progs-dll-version/)
+* [CMDret](http://ge.tt/6ddENWQ2/v/0?c) - A Dll file designed for retrieving output from console based applications and saving the output in a variable and/or redirecting to a control without displaying the console window or creating/using temporary files. Forum [link](http://autohotkey.com/board/topic/3489-cmdret-return-output-from-console-progs-dll-version/)
 
 ### <a name="libraries-data-format"></a>Data format
 
@@ -81,7 +81,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ### Lists
 
 * [AHKArray](http://ge.tt/3ZornVQ2/v/0?c) - AHKArray provides a way to store multiple variables, as one. It eliminates the necessity for using global variable arrays. Forum [link](http://autohotkey.com/board/topic/13606-ahkarray-real-array-one-variable-version-6/)
-* [SimpleArray](http://ge.tt/5mW4nVQ2/v/0?c) - single variable list/array editing function library focused on speed and simplicity. Forum [link](http://autohotkey.com/board/topic/32078-lib-simplearray-short-fast-string-array-v35/)
+* [SimpleArray](http://ge.tt/3L4ONWQ2/v/0?c) - single variable list/array editing function library focused on speed and simplicity. Forum [link](http://autohotkey.com/board/topic/32078-lib-simplearray-short-fast-string-array-v35/)
 
 ### Maths
 
