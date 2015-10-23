@@ -18,7 +18,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
     - [Lists](#lists)
     - [Maths](#maths)
     - [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
-    - [Sockets](#sockets)
+    - [Networking](#networking)
     - [System](#libraries-system)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
@@ -87,7 +87,9 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 
-### Sockets
+### Networking
+
+* [Sparrow](http://ge.tt/1bwP7qk1/v/0) - AHK WebServer with AHK in HTML support. Forum [link](Forum http://autohotkey.com/board/topic/33020-sparrow-ahk-webserver-w-ahk-in-html-support-sources-incl/)
 
 ### <a name="libraries-system"></a>System
 
