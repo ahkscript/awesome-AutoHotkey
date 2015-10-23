@@ -109,7 +109,8 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### Networking
-* [AHKsock](http://www.autohotkey.com/board/topic/53827) - by TheGood - Function based sockets library. Supports TCP.
+* [AHKsock](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](http://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/
+* [AHKhttp](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4890)
 * [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - by Bentschi -  Class based sockets library. Supports TCP and UDP.
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
