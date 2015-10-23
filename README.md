@@ -20,8 +20,8 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
     - [Joystick](#joystick)
     - [Lists](#lists)
     - [Maths](#maths)
+    - [Networking](#networking)
     - [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
-    - [Sockets](#sockets)
     - [System](#libraries-system)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
@@ -108,14 +108,14 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [Eval](http://www.autohotkey.com/board/topic/82823-) - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (discontinued)
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
+### Networking
+* [AHKsock](http://www.autohotkey.com/board/topic/53827) - by TheGood - Function based sockets library. Supports TCP.
+* [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - by Bentschi -  Class based sockets library. Supports TCP and UDP.
+
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
 * [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - by SKAN - Function library for graphically plotting real time data.
-
-### Sockets
-* [AHKsock](http://www.autohotkey.com/board/topic/53827) - by TheGood - Function based sockets library. Supports TCP.
-* [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - by Bentschi -  Class based sockets library. Supports TCP and UDP.
 
 ### <a name="libraries-system"></a>System
 * [RunAsTask](http://ahkscript.org/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
