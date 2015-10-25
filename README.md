@@ -171,9 +171,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator).
 
 #### Web Syntax Highlighters
+* [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript, supported more than 130 languages (include AutoHotkey).
 * [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
-* [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript, supported more than 130 languages (include AutoHotkey).
 
 #### <a name="tools-others"></a>Others
 * [GoTo](http://www.autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
