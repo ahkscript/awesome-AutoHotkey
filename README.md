@@ -206,6 +206,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 ### Web Syntax Highlighters
 * [PrismJs](http://ahkscript.org/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
+* [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript, supported more than 130 languages (include AutoHotkey).
 
 ### <a name="tools-others"></a>Others
 * [GoTo](http://www.autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
