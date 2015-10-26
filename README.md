@@ -69,8 +69,8 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 ### <a name="libraries-data-format"></a>Data format
 * [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=627).
 * [ObjDump/ObjLoad](http://ahkscript.org/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
-* [XA](https://github.com/hi5/CL3/blob/master/lib/XA.ahk) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](http://www.autohotkey.com/board/topic/85461-ahk-l-saveload-arrays/).
 * [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4212).
+* [XA](https://github.com/hi5/CL3/blob/master/lib/XA.ahk) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](http://www.autohotkey.com/board/topic/85461-ahk-l-saveload-arrays/).
 
 ### Database
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](http://www.autohotkey.com/board/topic/71179).
@@ -110,8 +110,8 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### Networking
-* [AHKsock](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](http://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
 * [AHKhttp](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4890)
+* [AHKsock](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](http://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
 * [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - by Bentschi -  Class based sockets library. Supports TCP and UDP.
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
