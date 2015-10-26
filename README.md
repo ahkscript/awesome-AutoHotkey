@@ -30,6 +30,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
     - [Filesystem](#scripts-filesystem)
     - [Graphics](#scripts-graphics)
     - [GUI](#scripts-gui)
+    - [Maths](#scripts-maths)
     - [Mouse](#mouse)
     - [Typing](#typing)
     - [Window management](#window-management)
@@ -105,7 +106,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 *  [List manipulation functions](http://www.hars.us/SW/List.ahk) - by Laszlo - Function library to manipulate comma delimited lists. Forum thread: [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
 ### Maths
-* [Eval](http://www.autohotkey.com/board/topic/82823-) - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (discontinued)
+* [calc()](http://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets 
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### Networking
@@ -151,6 +152,10 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 
 ### <a name="scripts-gui"></a>GUI
 * [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
+
+### <a name="scripts-maths"></a>Maths
+* [Monster](http://autohotkey.com/board/topic/15675-monster-evaluate-math-expressions-in-strings/) - evaluate math expressions in strings (calculator).
+* [Unit Converter](http://autohotkey.com/board/topic/39359-unit-converter/) - unit converter that has most common english and scientific units and most common quantities from length to density to thermal conductivity. Also includes a section for physical and mathematic constants.
 
 ### Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648).
