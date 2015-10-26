@@ -103,6 +103,10 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ## Library Distributions
 *List of historical AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
+* [ahklib](https://github.com/ahklib) - Uberi and infogulch's AutoHotkey library.
+* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) - Ahk Standard Library Collection by Tuncay. Forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).
+* [Salt](https://code.google.com/p/salt/) - Standard AutoHotkey Library Transfer.
+
 <br>
 ## Scripts
 *List of historical AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
