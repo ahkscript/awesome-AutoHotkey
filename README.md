@@ -133,9 +133,6 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
 * [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
-* [ahklib](https://github.com/ahklib) - Uberi and infogulch's AutoHotkey library. - (discontinued)
-* [ahkstdlib](http://ahkscript.org/boards/viewtopic.php?f=6&t=3643) - Ahk Standard Library Collection by Tuncay. Forum thread: [link](http://www.autohotkey.com/forum/viewtopic.php?t=54996).- (discontinued)
-* [Salt](https://code.google.com/p/salt/) - Standard AutoHotkey Library Transfer. - (discontinued)
 
 <br>
 ## Scripts
