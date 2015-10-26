@@ -85,6 +85,8 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Maths
 
+* [Eval](https://github.com/fincs/ahk-eval) - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. Forum [link](http://www.autohotkey.com/board/topic/82823-)
+
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 
 ### Networking
