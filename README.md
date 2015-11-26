@@ -81,7 +81,7 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 
 ### <a name="libraries-graphics"></a>Graphics
 * [GDIp](https://github.com/tariqporter/Gdip/) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6517).
-* [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen.
+* [GDIp_ImageSearch](http://www.autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
 * [Simple GDI class](http://ahkscript.org/boards/viewtopic.php?f=6&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
 
 ### <a name="libraries-gui"></a>GUI
