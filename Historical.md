@@ -24,6 +24,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
     - [Clipboard](#scripts-clipboard)
+    - [Editors](#scripts-editors)
     - [Filesystem](#scripts-filesystem)
     - [Graphics](#scripts-graphics)
     - [GUI](#scripts-gui)
@@ -113,6 +114,9 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### <a name="scripts-clipboard"></a>Clipboard
 
+### <a name="scripts-editors"></a>Editors
+* [vic](https://autohotkey.com/board/topic/48796-vic-a-free-text-editor-based-on-hiedit-control/) - by [normand](http://normandlamoureux.com) - A free text editor based on HiEdit control - Forum thread: [link](https://autohotkey.com/board/topic/48796-vic-a-free-text-editor-based-on-hiedit-control/) - AHK 1.0.48, 32bit
+
 ### <a name="scripts-filesystem"></a>Filesystem
 
 ### <a name="scripts-graphics"></a>Graphics
@@ -123,7 +127,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Typing
 
-* [Catena](http://normandlamoureux.com/catena/index.html) - Gui interface for AutoHotkey hotstrings
+* [Catena](http://normandlamoureux.com/catena/index.html) - by normand - Gui interface for AutoHotkey hotstrings
 
 ### Window Management
 
