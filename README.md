@@ -228,7 +228,6 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [LibLua](http://www.autohotkey.com/forum/topic44204.html) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/p/wow-vending-machine/source/browse/trunk/WoWDriver/Lib/?r=37)*.
 * [Machine code functions: Bit Wizardry](http://www.autohotkey.com/forum/topic21172.html) - Tutorial [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4642).
 * [Embed Perl](http://www.autohotkey.com/forum/topic12333.html) - Forum thread: [link](http://www.autohotkey.com/forum/topic12333.html).
-* [Embed Python](https://github.com/tinku99/embedpython) - Forum thread: [link](http://www.autohotkey.com/forum/topic51591.html)
 * [PAHK](https://code.google.com/p/pahk/) - Forum thread: [link](http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/).
 
