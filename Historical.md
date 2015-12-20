@@ -159,6 +159,8 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### (Use in) other programming languages
 
+* [Embed Lisp](http://web.archive.org/web/20131006024619/http://github.com/tinku99/ahk-org-mode/raw/master/lisp-org.el) (Archive.org) - Forum thread: [link](http://www.autohotkey.com/board/topic/39620-ahklisp-lisp-on-win32-with-cffi-sbcl-and-autohotkey/) - Website: [link](http://web.archive.org/web/20090413052639/http://www.ahklisp.com/) [Readme](http://web.archive.org/web/20090414031546/http://github.com/tinku99/ahklisp/blob/67943772b1088d198973542d31804455c1770810/README) (both Archive.org)
+* 
 <br>
 ## Tutorials
 *List of historical AutoHotkey tutorials.*
