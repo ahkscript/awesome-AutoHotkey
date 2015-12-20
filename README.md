@@ -259,8 +259,8 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=27).
 
 ### Websites
-* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey.
-* [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey.
+* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey Foundation LLC, a non-profit LLC (Limited Liability Company) founded for this software. Certificate of Organization (pdf) [link](http://ahkscript.org/certificate_of_organization.pdf).
+* [autohotkey.com](http://www.autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
 
 <br>
