@@ -227,7 +227,6 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk).
 * [LibLua](http://www.autohotkey.com/forum/topic44204.html) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/p/wow-vending-machine/source/browse/trunk/WoWDriver/Lib/?r=37)*.
 * [Machine code functions: Bit Wizardry](http://www.autohotkey.com/forum/topic21172.html) - Tutorial [link](http://ahkscript.org/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4642).
-* [Embed Lisp](https://github.com/tinku99/ahklisp) - Forum thread: [link](http://www.autohotkey.com/board/topic/39620-ahklisp-lisp-on-win32-with-cffi-sbcl-and-autohotkey/)
 * [Embed Perl](http://www.autohotkey.com/forum/topic12333.html) - Forum thread: [link](http://www.autohotkey.com/forum/topic12333.html).
 * [Embed Python](https://github.com/tinku99/embedpython) - Forum thread: [link](http://www.autohotkey.com/forum/topic51591.html)
 * [PAHK](https://code.google.com/p/pahk/) - Forum thread: [link](http://www.autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
