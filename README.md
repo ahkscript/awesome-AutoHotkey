@@ -95,6 +95,9 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 * [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) - by just Me - In-cell editing for ListView controls. Forum thread: [link](http://http://ahkscript.org/boards/viewtopic.php?f=6&t=1076)
 * [LV_EX](https://github.com/AHK-just-me/LV_EX) - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=1256)
 
+### Menu
+* [[Lib] Menu](https://www.autohotkey.com/boards/viewtopic.php?t=3068) - by just me - Some functions related to AHK menus. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=3068)
+
 ### Hotkeys
 * [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
 * [HParse](http://www.autohotkey.com/board/topic/92805-) - by Avi -  Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
