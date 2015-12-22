@@ -88,11 +88,12 @@ Non-up-to-date or discontinued, but nonetheless historical relevant items can be
 #### General
 * [AutoXYWH](http://ahkscript.org/boards/viewtopic.php?f=6&t=1079) - by tmplinshi - Move and resize controls automatically when a GUI is resized.
 * [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - by just Me - enhanced MsgBox for Win Vista+ - [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=4635)
-* [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk) - by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6463).
+* [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk) - by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6463)
 
 #### ListView
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=1081)
 * [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) - by just Me - In-cell editing for ListView controls. Forum thread: [link](http://http://ahkscript.org/boards/viewtopic.php?f=6&t=1076)
+* [LV_EX](https://github.com/AHK-just-me/LV_EX) - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=1256)
 
 ### Hotkeys
 * [CHotkeyControl](http://ahkscript.org/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
