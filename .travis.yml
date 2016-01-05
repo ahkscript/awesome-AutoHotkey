@@ -1,0 +1,8 @@
+language: autohotkey
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md
+  - awesome_bot Historical.md
