@@ -178,7 +178,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Documentation
 
-* [https://autohotkey.free.fr/docs/](https://autohotkey.free.fr/docs/) - Documentation for AHK 1.0 in French
+* [http://autohotkey.free.fr/docs/](http://autohotkey.free.fr/docs/) - Documentation for AHK 1.0 in French
  
 ### Books
 
