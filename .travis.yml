@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --whitelist ahkscript,lifehacker,dropbox
+  - awesome_bot README.md --white-list ahkscript,lifehacker,dropbox
