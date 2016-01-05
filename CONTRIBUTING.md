@@ -13,7 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
   1. In section **Tools**, subsection *Interpreter* comes first.
   3. In section **Resources**, in subsections *Websites*, *Documentation* and *Quick-start guides*, official ones comes first. 
 - Each item should follow rules:
- 1. First comes the name of the item which in the same time is a link to home page. If there is no home page, the link of official AutoHotkey forum thread (http://ahkscript.org/boards/) of that item. If item has not any of these links then any link you think is most significant for item. 
+ 1. First comes the name of the item which in the same time is a link to home page. If there is no home page, the link of official AutoHotkey forum thread (https://autohotkey.com/boards/) of that item. If item has not any of these links then any link you think is most significant for item. 
  2. After should go `-` sign. 
  3. After should go short, clear, concise, and non-promotional description. Descriptions should follow the link, on the same line.
  4. If the item has any other related links, they should go after description. Like this - Forum thread: [link](http://link) .
