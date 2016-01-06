@@ -56,28 +56,9 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ## Libraries
 *List of historical AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
-### Clipboard
-
 ### Console
 
 * [CMDret](http://ge.tt/6ddENWQ2/v/0?c) - A Dll file designed for retrieving output from console based applications and saving the output in a variable and/or redirecting to a control without displaying the console window or creating/using temporary files. Forum [link](https://autohotkey.com/board/topic/3489-cmdret-return-output-from-console-progs-dll-version/)
-
-### <a name="libraries-data-format"></a>Data format
-
-### Database
-
-### Filesystem
-
-### <a name="libraries-graphics"></a>Graphics
-
-### <a name="libraries-gui"></a>GUI
-#### General
-
-#### ListView
-
-### Hotkeys
-
-### Joystick
 
 ### Lists
 
@@ -88,13 +69,10 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 * [Eval](https://github.com/fincs/ahk-eval) - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. Forum [link](https://autohotkey.com/board/topic/82823-)
 
-### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
-
 ### Networking
 
 * [Sparrow](http://ge.tt/1bwP7qk1/v/0) - AHK WebServer with AHK in HTML support. Forum [link](Forum https://autohotkey.com/board/topic/33020-sparrow-ahk-webserver-w-ahk-in-html-support-sources-incl/)
 
-### <a name="libraries-system"></a>System
 
 ### Text manipulation
 
@@ -112,44 +90,21 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ## Scripts
 *List of historical AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
-### <a name="scripts-clipboard"></a>Clipboard
-
 ### <a name="scripts-editors"></a>Editors
 * [vic](https://autohotkey.com/board/topic/48796-vic-a-free-text-editor-based-on-hiedit-control/) - by [normand](http://normandlamoureux.com) - A free text editor based on HiEdit control - Forum thread: [link](https://autohotkey.com/board/topic/48796-vic-a-free-text-editor-based-on-hiedit-control/) - AHK 1.0.48, 32bit
-
-### <a name="scripts-filesystem"></a>Filesystem
-
-### <a name="scripts-graphics"></a>Graphics
-
-### <a name="scripts-gui"></a>GUI
-
-### Mouse
 
 ### Typing
 
 * [Catena](http://normandlamoureux.com/catena/index.html) - by normand - Gui interface for AutoHotkey hotstrings
 
-### Window Management
-
 <br>
 ## Tools
 *List of historical AutoHotkey tools. Tools made for Autohotkey*
-
-### Interpreter
-
-### Debugging
-
-### Decompilers
-
-### Integrated Development Environment
 
 ### GUI WYSIWYG Builders
 
 * [Lilbuilder](http://ge.tt/2mxBDSQ2/v/0?c) - advanced and feature rich GUI form creation tool. It supports custom controls and saving/loading projects. It can also make copy of windows from your existing GUI scripts to help you convert them to builder project files. Forum [link](https://autohotkey.com/board/topic/18489-lil-builder-071/)
 
-### Script Recorders and Writers
-
-### Web Syntax Highlighters
 
 ### <a name="tools-others"></a>Others
 
@@ -166,12 +121,6 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ## Tutorials
 *List of historical AutoHotkey tutorials.*
 
-### <a name="tutorials-classes"></a>Classes
-
-### <a name="tutorials-gui"></a>GUI
-
-### <a name="tutorials-mcode"></a>MCode (machine code)
-
 <br>
 ## Resources
 *List of historical AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
@@ -180,11 +129,6 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 * [http://autohotkey.free.fr/docs/](http://autohotkey.free.fr/docs/) - Documentation for AHK 1.0 in French
  
-### Books
-
-### Quick-start guides
-
-### Websites
 
 <br>
 ## License
