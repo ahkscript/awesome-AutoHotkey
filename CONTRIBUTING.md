@@ -19,7 +19,7 @@ Please ensure your pull request adheres to the following guidelines:
  4. If the item has any other related links, they should go after description. Like this - Forum thread: [link](http://link) .
 - Use unique html anchor tags for each subsection. More about it [here](https://github.com/ahkscript/awesome-AutoHotkey/issues/12) and [here](https://github.com/ahkscript/awesome-AutoHotkey/issues/2#issuecomment-52114056).
 
-The main page [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) should only contain up-to-date scripts, which work with the latest version of AutoHotkey. Non-up-to-date or discontinued scripts which are historically valueable should be listed on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
+The main page [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) should only contain up-to-date scripts, which work with the latest version of AutoHotkey. Non-up-to-date or discontinued scripts that have historical value should be listed on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
 ### Quality standards
 To stay on the lists, libraries, library distributions, scripts, tools and resource should adhere to these quality standards:
