@@ -161,7 +161,6 @@ Development state:
 * [Unit Converter](https://autohotkey.com/board/topic/39359-unit-converter/) - unit converter that has most common english and scientific units and most common quantities from length to density to thermal conductivity. Also includes a section for physical and mathematic constants.
 
 ### Mouse
-* [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3648).
 * [MouseGestureL](http://www.vector.co.jp/download/file/winnt/util/fh633547.html) - Control applications by mouse gestures. Gestures and actions can be defined via customizable interface. Documentation in English and Japanese - Japanese Homepage [link](http://hp.vector.co.jp/authors/VA018351/mglahk.html)
 * [Radial Menu](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) -  Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread: [link](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
