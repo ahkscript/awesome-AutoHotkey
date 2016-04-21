@@ -118,6 +118,7 @@ Development state:
 
 ### Maths
 * [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets 
+* [Eval](Https://github.Com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](Https://autohotkey.Com/boards/viewtopic.Php?F=6&t=13565)
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### Networking
