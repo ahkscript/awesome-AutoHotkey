@@ -87,6 +87,10 @@ Development state:
 * [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
 
 ### <a name="libraries-gui"></a>GUI
+
+#### Combobox
+*  [CbAutoComplete](https://github.Com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox.. Forum thread: [link](https://autohotkey.Com/boards/viewtopic.Php?F=6&t=15002)
+
 #### Custom Controls
 *  [Rebar](https://github.com/Pulover/Class_Rebar) - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
 *  [Toolbar](https://github.com/Pulover/Class_Toolbar) - by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=138)
