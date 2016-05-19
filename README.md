@@ -89,7 +89,7 @@ Development state:
 ### <a name="libraries-gui"></a>GUI
 
 #### Combobox
-* [CbAutoComplete](https://github.Com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox.. Forum thread: [link](https://autohotkey.Com/boards/viewtopic.Php?f=6&t=15002)
+* [CbAutoComplete](https://github.com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=15002)
 
 #### Custom Controls
 * [Rebar](https://github.com/Pulover/Class_Rebar) - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
@@ -104,7 +104,7 @@ Development state:
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
 * [LV_EX](https://github.com/AHK-just-me/LV_EX) - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
 * [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) - by just Me - In-cell editing for ListView controls. Forum thread: [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
-* [LV_Rows](https://github.com/Pulover/Class_LV_Rows) - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](Https://autohotkey.Com/boards/viewtopic.Php?F=6&t=137)
+* [LV_Rows](https://github.com/Pulover/Class_LV_Rows) - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
 
 #### Menu
 * [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - by just me - Some functions related to AHK menus. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
@@ -122,7 +122,7 @@ Development state:
 
 ### Maths
 * [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets 
-* [Eval](Https://github.Com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](Https://autohotkey.Com/boards/viewtopic.Php?F=6&t=13565)
+* [Eval](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### Networking
