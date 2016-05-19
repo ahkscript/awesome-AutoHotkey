@@ -89,7 +89,7 @@ Development state:
 ### <a name="libraries-gui"></a>GUI
 
 #### Combobox
-* [CbAutoComplete](https://github.Com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox.. Forum thread: [link](https://autohotkey.Com/boards/viewtopic.Php?F=6&t=15002)
+* [CbAutoComplete](https://github.Com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox.. Forum thread: [link](https://autohotkey.Com/boards/viewtopic.Php?f=6&t=15002)
 
 #### Custom Controls
 * [Rebar](https://github.com/Pulover/Class_Rebar) - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
@@ -246,7 +246,7 @@ Development state:
 * [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - Tutorial [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
 * [Embed Perl](http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3) - Forum thread: [link](https://autohotkey.com/board/topic/11249-embedding-perl/).
 * [PAHK](https://code.google.com/archive/p/pahk) - Forum thread: [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
-* [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.org/en/latest/).
+* [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
 <br>
 ## Tutorials
