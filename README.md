@@ -5,7 +5,7 @@ A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, libra
 Non-up-to-date or discontinued, but nonetheless historical relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
 Development state: 
-[![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot) [![Stories in Ready](https://badge.waffle.io/ahkscript/awesome-AutoHotkey.svg?label=ready&title=Ready)](https://waffle.io/ahkscript/awesome-AutoHotkey) [![Stories in Progress](https://badge.waffle.io/ahkscript/awesome-AutoHotkey.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/ahkscript/awesome-AutoHotkey)
+[![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
 <br>
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
