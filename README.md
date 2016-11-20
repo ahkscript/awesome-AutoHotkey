@@ -55,6 +55,8 @@ Development state:
     - [Books](#books)
     - [Quick-start guides](#quick-start-guides)
     - [Websites](#websites)
+  - [Forks](#forks)
+    - [AutoHotkey_H](#autohotkey_h)
 
 <br><hr><br>
 
@@ -241,7 +243,7 @@ Development state:
 * [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) - by GeekDude - A lightweight dynamic code tester.
 
 ### (Use in) other programming languages
-
+* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
 * [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk).
@@ -282,6 +284,13 @@ Development state:
 * [ahkscript.org](http://ahkscript.org/) - Official website of [AutoHotkey Foundation LLC](http://ahkscript.org/foundation/), a non-profit LLC (Limited Liability Company) founded for this software. Certificate of Organization (pdf) [link](http://ahkscript.org/certificate_of_organization.pdf).
 * [autohotkey.com](https://autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
+
+<br>
+## Forks
+*Forks of AHK which add new features to the core language*
+
+### AutoHotkey_H
+* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of changes](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
 
 <br>
 ## License
