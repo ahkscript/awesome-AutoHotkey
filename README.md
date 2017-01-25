@@ -101,6 +101,7 @@ Development state:
 * [AutoXYWH](https://autohotkey.com/boards/viewtopic.php?f=6&t=1079) - by tmplinshi - Move and resize controls automatically when a GUI is resized.
 * [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - by just Me - enhanced MsgBox for Win Vista+ - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
 * [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk) - by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6463)
+* [CGUI](https://github.com/lipkau/CGUI/) - by ChrisS85 - An object-oriented GUI library for AutoHotkey - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
 
 #### ListBox
 * [TransparentListBox](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
