@@ -22,7 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 The main page [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) should only contain up-to-date scripts, which work with the latest version of AutoHotkey. Non-up-to-date or discontinued scripts that have historical value should be listed on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
 ### Quality standards
-To stay on the main list [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) items should adhere to flowing quality standards:
+To stay on the main list [README.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md) items should adhere to following quality standards:
 - Work with the current AutoHotkey versions.
 - Generally useful to the community.
 - Functional.
