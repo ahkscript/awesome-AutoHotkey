@@ -1,6 +1,6 @@
 # Historical Awesome AutoHotkey
 
-This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md). This list contains awesome-Autohotkey library distributions, scripts, tools and resources which **are no longer up-to-date**, **discontinued** but nonetheless **historically valueable**.
+This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/README.md). This list contains awesome-Autohotkey library distributions, scripts, tools and resources which **are no longer up-to-date**, **discontinued** but nonetheless **historically valuable**.
 <br>
 <!-- Note: This table of contents should be identical to TOC in README.md -->
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
@@ -81,7 +81,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ### <a name="tools-others"></a>Others
 
 * [Auto-Syntax-Tidy](https://autohotkey.com/board/topic/7169-auto-syntax-tidy-v12/?p=533545) - Takes a AHK script and changes the indentation and case of commands according to syntax. Forum [link](https://autohotkey.com/board/topic/7169-auto-syntax-tidy-v12/)
-* [Isense54](https://code.google.com/p/isense-x/downloads/list) - command completition and parameter tracking script (intellisense). Forum [link](https://autohotkey.com/board/topic/11853-isense-154/)
+* [Isense54](https://code.google.com/p/isense-x/downloads/list) - command completion and parameter tracking script (intellisense). Forum [link](https://autohotkey.com/board/topic/11853-isense-154/)
 
 
 ### (Use in) other programming languages
