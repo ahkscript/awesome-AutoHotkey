@@ -48,6 +48,7 @@ Development state:
     - [(Use in) other programming languages](#use-in-other-programming-languages)
   - [Tutorials](#tutorials)
     - [Classes](#tutorials-classes)
+    - [COM](#tutorials-com)
     - [GUI](#tutorials-gui)
     - [MCode (machine code)](#tutorials-mcode)
   - [Resources](#resources)
@@ -267,6 +268,9 @@ Development state:
 ### <a name="tutorials-classes"></a>Classes
 * [Classes in AHK, Basic tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial.
 * [Classes in AHK, a Dissection (Advanced)](https://autohotkey.com/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial.
+
+### <a name="tutorials-com"></a>COM
+* [MS Office COM Basics](https://autohotkey.com/boards/viewtopic.php?f=7&t=8978) - Using AutoHotkey with MS Office.
 
 ### <a name="tutorials-gui"></a>GUI
 * [Use HTML and CSS for your GUIs!](https://autohotkey.com/boards/viewtopic.php?f=7&t=4588) - Using HTML and CSS for creating GUIs.
