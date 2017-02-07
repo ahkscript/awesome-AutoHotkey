@@ -108,6 +108,7 @@ Development state:
 * [CGUI](https://github.com/lipkau/CGUI/) - by ChrisS85 - An object-oriented GUI library for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
 
 #### ListBox
+* [LBEX](https://github.com/AHK-just-me/LBEX) - by [just me](https://github.com/AHK-just-me) - a collection of utility functions for ListBoxes.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
 * [TransparentListBox](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
 
 #### ListView
