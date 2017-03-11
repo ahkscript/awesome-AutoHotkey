@@ -126,6 +126,7 @@ Development state:
 
 ### Joystick
 * [CvJoyInterface](https://autohotkey.com/boards/viewtopic.php?t=5705) - by evilC - Control a vJoy virtual joystick using AHK.
+* [JoystickWrapper](https://autohotkey.com/boards/viewtopic.php?f=19&t=28889) - by evilC - Full event-based, 8 axis, 128 button, 4 POV joystick reading (C# DLL, Uses Lexikos' CLR).
 * [XInput](https://autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/) - by Lexikos - Read XBOX gamepads using XInput (Only way to independently read L/R triggers), control rumble motors.
 
 ### Lists
