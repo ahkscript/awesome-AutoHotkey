@@ -7,59 +7,58 @@ Out-of-date or discontinued, but nonetheless historically relevant items can be 
 Development state: 
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
-<br>
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
-- [Awesome AutoHotkey](#awesome-autohotkey)
- - [Libraries](#libraries)
-    - [Clipboard](#clipboard)
-    - [Console](#console)
-    - [Data format](#libraries-data-format)
-    - [Database](#database)
-    - [Filesystem](#filesystem)
-    - [Graphics](#libraries-graphics)
-    - [GUI](#libraries-gui)
-    - [Hotkeys](#hotkeys)
-    - [Joystick](#joystick)
-    - [Lists](#lists)
-    - [Maths](#maths)
-    - [Networking](#networking)
-    - [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
-    - [System](#libraries-system)
-    - [Text manipulation](#text-manipulation)
-  - [Library Distributions](#library-distributions)
-  - [Scripts](#scripts)
-    - [Clipboard](#scripts-clipboard)
-    - [Filesystem](#scripts-filesystem)
-    - [Graphics](#scripts-graphics)
-    - [GUI](#scripts-gui)
-    - [Maths](#scripts-maths)
-    - [Mouse](#mouse)
-    - [Typing](#typing)
-    - [Window management](#window-management)
-  - [Tools](#tools)
-    - [Interpreter](#interpreter)
-    - [Decompilers](#decompilers)
-    - [Debugging](#debugging)
-    - [Integrated Development Environment](#integrated-development-environment)
-    - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
-    - [Script Recorders and Writers](#script-recorders-and-writers)
-    - [Web Syntax Highlighters](#web-syntax-highlighters)
-    - [Others](#tools-others)
-    - [(Use in) other programming languages](#use-in-other-programming-languages)
-  - [Tutorials](#tutorials)
-    - [Classes](#tutorials-classes)
-    - [COM](#tutorials-com)
-    - [GUI](#tutorials-gui)
-    - [MCode (machine code)](#tutorials-mcode)
-  - [Resources](#resources)
-    - [Documentation](#documentation)
-    - [Books](#books)
-    - [Quick-start guides](#quick-start-guides)
-    - [Websites](#websites)
-  - [Forks](#forks)
-    - [AutoHotkey_H](#autohotkey_h)
+* [Awesome AutoHotkey](#awesome-autohotkey)
+ * [Libraries](#libraries)
+    * [Clipboard](#clipboard)
+    * [Console](#console)
+    * [Data format](#libraries-data-format)
+    * [Database](#database)
+    * [Filesystem](#filesystem)
+    * [Graphics](#libraries-graphics)
+    * [GUI](#libraries-gui)
+    * [Hotkeys](#hotkeys)
+    * [Joystick](#joystick)
+    * [Lists](#lists)
+    * [Maths](#maths)
+    * [Networking](#networking)
+    * [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
+    * [System](#libraries-system)
+    * [Text manipulation](#text-manipulation)
+  * [Library Distributions](#library-distributions)
+  * [Scripts](#scripts)
+    * [Clipboard](#scripts-clipboard)
+    * [Filesystem](#scripts-filesystem)
+    * [Graphics](#scripts-graphics)
+    * [GUI](#scripts-gui)
+    * [Maths](#scripts-maths)
+    * [Mouse](#mouse)
+    * [Typing](#typing)
+    * [Window management](#window-management)
+  * [Tools](#tools)
+    * [Interpreter](#interpreter)
+    * [Decompilers](#decompilers)
+    * [Debugging](#debugging)
+    * [Integrated Development Environment](#integrated-development-environment)
+    * [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
+    * [Script Recorders and Writers](#script-recorders-and-writers)
+    * [Web Syntax Highlighters](#web-syntax-highlighters)
+    * [Others](#tools-others)
+    * [(Use in) other programming languages](#use-in-other-programming-languages)
+  * [Tutorials](#tutorials)
+    * [Classes](#tutorials-classes)
+    * [COM](#tutorials-com)
+    * [GUI](#tutorials-gui)
+    * [MCode (machine code)](#tutorials-mcode)
+  * [Resources](#resources)
+    * [Documentation](#documentation)
+    * [Books](#books)
+    * [Quick-start guides](#quick-start-guides)
+    * [Websites](#websites)
+  * [Forks](#forks)
+    * [AutoHotkey_H](#autohotkey_h)
 
-<br><hr><br>
+<hr/>
 
 ## Libraries
 *List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
@@ -157,7 +156,6 @@ Development state:
 * [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
 * [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576).
 
-<br>
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
@@ -165,7 +163,6 @@ Development state:
 * [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 * [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
-<br>
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
@@ -206,7 +203,6 @@ Development state:
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
 * [WindowSaver](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_
 
-<br>
 ## Tools
 *List of useful AutoHotkey tools. Tools made for AutoHotkey*
 
@@ -265,7 +261,6 @@ Development state:
 * [PAHK](https://code.google.com/archive/p/pahk) - Forum thread: [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
-<br>
 ## Tutorials
 *List of useful AutoHotkey tutorials.*
 
@@ -282,7 +277,6 @@ Development state:
 ### <a name="tutorials-mcode"></a>MCode (machine code)
 * [MCode Tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial.
 
-<br>
 ## Resources
 *List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
@@ -300,14 +294,12 @@ Development state:
 * [autohotkey.com](https://autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
 
-<br>
 ## Forks
 *Forks of AHK which add new features to the core language*
 
 ### AutoHotkey_H
 * [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of changes](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
 
-<br>
 ## License
 
 [![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
