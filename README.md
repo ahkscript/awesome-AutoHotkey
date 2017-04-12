@@ -255,6 +255,7 @@ Development state:
 * [Context sensitive help in any editor](https://autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
 * [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) - by GeekDude - A lightweight dynamic code tester.
 * [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/) - by bruttosozialprodukt -  iWB2 Learner is a tool for gathering information about Internet Explorer webpages. Forum thread: [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
+* [AHK-EXE-Swapper](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310) - by evilC - Swap AHK version quickly! Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310).
 
 ### (Use in) other programming languages
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
