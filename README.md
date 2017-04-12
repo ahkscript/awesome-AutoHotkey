@@ -239,6 +239,7 @@ Development state:
 ### GUI WYSIWYG Builders
 * [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=6&t=10157) - by alguimist - WYSIWIG GUI Designer and Script Editor
 * [GUI Creator (formerly Basic GUI Creator)](https://autohotkey.com/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
+* [MagicBox](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953) - by [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723) - MagicBox is a development tool to assist in the creation of message boxes. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953).
 
 ### Script Recorders and Writers
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator).
