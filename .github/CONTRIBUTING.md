@@ -3,7 +3,7 @@ awesome-AutoHotkey is a specially curated list for high-quality AutoHotkey Libra
 This resource was made by the AutoHotkey community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/ahkscript/awesome-AutoHotkey/graphs/contributors).
 
 
-###How to contribute
+### How to contribute
 Please ensure your pull request adheres to the following guidelines:
 - Please contribute items you have used or are familiar with. This will help ensure high-quality entries.
 - To add item or subsection to the list and if you have rights to commit to the list (member of ahkscript organization) just edit list directly (no need for special discussion). If you are not member of ahkscript organization, make an individual pull request for each item.
