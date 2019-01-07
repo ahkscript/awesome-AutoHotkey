@@ -21,6 +21,7 @@ Development state:
     * [Hotkeys](#hotkeys)
     * [Joystick](#joystick)
     * [Maths](#maths)
+    * [Memory](#memory)
     * [Networking](#networking)
     * [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
     * [System](#libraries-system)
@@ -148,6 +149,10 @@ Development state:
 * [Eval](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
+
+### Memory
+
+* [classMemory](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
 
 ### Networking
 * [AHKhttp](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4890)
