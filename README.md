@@ -189,6 +189,7 @@ Development state:
 
 ### <a name="scripts-clipboard"></a>Clipboard
 * [CL3](https://github.com/hi5/CL3) - A clipboard manager (text only) with plugins (Search, predefined Slots, ClipChain, FIFO, Editor and more). Forum thread [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=814).
+* [ClipBoardMonitor](https://github.com/536/ClipBoardMonitor) - Monitor clipboard changes, showing a tooltip of word counting for text or a temporary GUI for pictures.
 * [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
 ### <a name="scripts-filesystem"></a>Filesystem
