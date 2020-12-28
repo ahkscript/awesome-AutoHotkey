@@ -351,7 +351,7 @@ Development state:
 *Forks of AHK which add new features to the core language*
 
 ### AutoHotkey_H
-* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of changes](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
+* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
 
 ## License
 
