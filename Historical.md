@@ -49,16 +49,16 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 ### Text manipulation
 
 * [TXT](https://autohotkey.com/board/topic/29927-library-for-text-file-manipulation/) - Library for Text file manipulation - predecessor of [TF](https://github.com/hi5/TF)
-
-<br>
+  
+  
 ## Library Distributions
 *List of historical AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
 * [ahklib](https://github.com/ahklib) - Uberi and infogulch's AutoHotkey library.
 * [ahkstdlib](https://autohotkey.com/boards/viewtopic.php?f=6&t=3643) - Ahk Standard Library Collection by Tuncay. Forum thread: [link](https://autohotkey.com/board/topic/50834-ahk-standard-library-collection-2010-sep-gui-libs-100/).
 * [Salt](https://code.google.com/p/salt/) - Standard AutoHotkey Library Transfer.
+  
 
-<br>
 ## Scripts
 *List of historical AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
@@ -69,7 +69,10 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 * [Catena](http://normandlamoureux.com/catena/index.html) - by normand - Gui interface for AutoHotkey hotstrings
 
-<br>
+## Window Management
+* [NiftyWindows](https://github.com/ahkscript/NiftyWindows) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
+* [WindowSaver](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_
+
 ## Tools
 *List of historical AutoHotkey tools. Tools made for Autohotkey*
 
@@ -88,12 +91,12 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 * [Embed Lisp](http://web.archive.org/web/20131006024619/http://github.com/tinku99/ahk-org-mode/raw/master/lisp-org.el) (Archive.org) - Forum thread: [link](https://autohotkey.com/board/topic/39620-ahklisp-lisp-on-win32-with-cffi-sbcl-and-autohotkey/) - Website: [link](http://web.archive.org/web/20090413052639/http://www.ahklisp.com/) [Readme](http://web.archive.org/web/20090414031546/http://github.com/tinku99/ahklisp/blob/67943772b1088d198973542d31804455c1770810/README) (both Archive.org)
 * [Embed Python](http://web.archive.org/web/20101221084237/http://github.com/tinku99/embedpython) (Archive.org) - Forum thread: [link](https://autohotkey.com/forum/topic51591.html)
+  
 
-<br>
 ## Tutorials
 *List of historical AutoHotkey tutorials.*
+  
 
-<br>
 ## Resources
 *List of historical AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
@@ -101,8 +104,8 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 * [http://autohotkey.free.fr/docs/](http://autohotkey.free.fr/docs/) - Documentation for AHK 1.0 in French
  
+  
 
-<br>
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
