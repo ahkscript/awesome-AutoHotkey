@@ -15,6 +15,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
   - [Scripts](#scripts)
     - [Editors](#scripts-editors)
     - [Typing](#typing)
+    - [Window Management](#window-management)
   - [Tools](#tools)
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Others](#tools-others)
@@ -69,7 +70,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 * [Catena](http://normandlamoureux.com/catena/index.html) - by normand - Gui interface for AutoHotkey hotstrings
 
-## Window Management
+### Window Management
 * [NiftyWindows](https://github.com/ahkscript/NiftyWindows) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
 * [WindowSaver](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_
 
