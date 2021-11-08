@@ -202,6 +202,7 @@ Development state:
 
 ### <a name="scripts-filesystem"></a>Filesystem
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
+* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 
 ### <a name="scripts-graphics"></a>Graphics
 * [Fun with GDIPlus](https://autohotkey.com/boards/viewtopic.php?f=6&t=6071) - Interesting GDI+ examples.
