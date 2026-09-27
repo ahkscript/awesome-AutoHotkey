@@ -36,6 +36,7 @@ Development state:
     * [Mouse](#mouse)
     * [Typing](#typing)
     * [Window management](#window-management)
+    * [Scripts management](#scripts-management)
     * [Games](#games)
   * [Tools](#tools)
     * [Interpreter](#interpreter)
@@ -96,7 +97,8 @@ Development state:
 * [Leya - MySQL API](https://github.com/kevgk/Leya) - by kevgk - Work with MySQL databases in autohotkey, without exposing server credentials to the client.
 
 ### Filesystem
-* [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
+* [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties. 
+* [WatchFolder](https://www.autohotkey.com/boards/viewtopic.php?f=83&t=95659) - by just Me - Notifies about changes within folders. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=83&t=95659).
 
 ### <a name="libraries-graphics"></a>Graphics
 * [GDIp](https://github.com/tariqporter/Gdip/) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
@@ -134,16 +136,24 @@ Development state:
 * [LV_EX](https://github.com/AHK-just-me/LV_EX) - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
 * [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) - by just Me - In-cell editing for ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
 * [LV_Rows](https://github.com/Pulover/Class_LV_Rows) - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
+* [RemoteListView](https://github.com/The-CoDingman/RemoteListView.ahk) - by Panaku - Interact with ListView from any window.
 
 #### Menu
 * [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - by just me - Some functions related to AHK menus. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
 
+#### WinUI
+* [[Lib] AxAHK](https://github.com/owhs/AxAHK) - by owhs - Lightweight framework for making modern GUI and Windows interactions easy. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=620938#p620938)
+* [[Lib] ahk-xaml](https://github.com/owhs/ahk-xaml/tree/legacy) - by owhs - Framework for creating Windows WPF/XAML Graphical User Interfaces. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=83&t=140580)
+* [[Lib] WinUI3](https://github.com/TrueCrimeDev/WinUI3) - by TrueCrimeDev - Framework for creating WinUI based interface.
+
 #### Web
+* [WebViewToo](https://github.com/The-CoDingman/WebViewToo) - by Panaku - Create and interact with Web-based GUIs. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=577772#p577772)
 * [Neutron](https://github.com/G33kDude/Neutron.ahk/) - by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865)
 
 ### Hotkeys
 * [CHotkeyControl](https://autohotkey.com/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
-* [HParse](https://autohotkey.com/board/topic/92805-) - by Avi -  Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
+* [Spammer](https://github.com/JoyHak/AhkLib/blob/main/Utilities/Spammer.ahk) - by Rafaello - Register a hotkey that spams specific hotkey multiple times and speeds up.
+* [KeyboardLayout](https://github.com/JoyHak/AhkLib/blob/main/Utilities/KeyboardLayout.ahk) - by Rafaello - Set/toggle keyboard layout (language).
 
 ### Joystick
 * [CvJoyInterface](https://autohotkey.com/boards/viewtopic.php?t=5705) - by evilC - Control a vJoy virtual joystick using AHK.
@@ -157,7 +167,6 @@ Development state:
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
 ### Memory
-
 * [classMemory](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
 
 ### Networking
@@ -181,17 +190,21 @@ Development state:
 ### <a name="libraries-system"></a>System
 * [RunAsTask](https://autohotkey.com/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
 * [Vista Audio Control Functions](https://github.com/ahkscript/VistaAudio) - by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
+* [Servy](https://github.com/aelassas/servy/tree/main) - by aelassas - Turn any Autohotkey script to a native Windows service. Forum thread: [Link](https://www.autohotkey.com/boards/viewtopic.php?f=22&t=139541&p=612125&hilit=Servy#p612125)
 
 ### Text manipulation
 * [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
 * [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576).
+* [MarkdownToBBCode](https://github.com/JoyHak/MarkdownToBBCode) - by Rafaello - Convert your *.md text to forum post (BBcode). Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=608333#p608333).
 
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
+* [Aris](https://github.com/Descolada/Aris) - Packages and dependencies manager by Descolada.
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
-* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
-* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
+* [AhkLib](https://github.com/JoyHak/AhkLib) - Rafaello's collection of libraries.
+* [ASPDM](https://github.com/ahkscript/ASPDM) - Package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks.
+* [pAHKlight](https://github.com/hi5/pAHKlight) - Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
@@ -204,6 +217,7 @@ Development state:
 ### <a name="scripts-filesystem"></a>Filesystem
 * [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 * [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
+* [QuickSwitch](https://github.com/JoyHak/QuickSwitch) - Quickly Switch to the folder from any file manager. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=102377&sd=d)
 * [SpicyKeys](https://spicykeys.github.io/) - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=97171)
 
 ### <a name="scripts-graphics"></a>Graphics
@@ -211,7 +225,6 @@ Development state:
 
 ### <a name="scripts-gui"></a>GUI
 * [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](https://autohotkey.com/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
-
 
 ### <a name="scripts-maths"></a>Maths
 * [Monster](https://autohotkey.com/board/topic/15675-monster-evaluate-math-expressions-in-strings/) - evaluate math expressions in strings (calculator).
@@ -221,6 +234,8 @@ Development state:
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3648).
 * [MouseGestureL](http://www.vector.co.jp/download/file/winnt/util/fh633547.html) - Control applications by mouse gestures. Gestures and actions can be defined via customizable interface. Documentation in English and Japanese - Japanese Homepage [link](http://hp.vector.co.jp/authors/VA018351/mglahk.html)
 * [Radial Menu](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) - Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread: [link](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
+* [Radify](https://github.com/XMCQCX/RadifyClass-RadifySkinEditor) - Framework to create radial menu with multi-ring layouts, submenus and interactive items. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=608071#p608071).
+* [Mouse](https://github.com/JoyHak/AhkLib/blob/main/Utilities/Mouse.ahk) - Set/get mouse scrolling and movement speed.
 
 ### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
@@ -241,6 +256,10 @@ Development state:
 * [Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63579&p=272220#p272220)
 * [SnapX](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
+
+### Scripts Management
+* [Launcher](https://github.com/JoyHak/Launcher) - Manage scripts, apps and auto-startup. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=619368#p619368)
+* [Build](https://github.com/JoyHak/AhkLib/blob/main/Scripts/Build.ahk) - Build a script into .exe with automatic Libs and interpreter detection.
 
 ### Games
 * [Achromatic - ProgressPlatformer](https://github.com/Uberi/ProgressPlatformer/releases) - Platform game. Forum thread: [link](https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/), GitHub: [link](https://github.com/Uberi/ProgressPlatformer)
@@ -263,6 +282,7 @@ Development state:
 * [AHK_X11](https://github.com/phil294/AHK_X11) A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81&t=106640)
 * [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 * [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Continuation of IronAHK by mfeemster. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=80&t=77248)
+* [ahk-hack](https://github.com/MonoEven/ahk-hack-library) - Dynamic scripts interpretation. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=83&t=141003)
 
 ### Debugging
 * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
@@ -355,12 +375,13 @@ Development state:
 * [autohotkey.com](https://autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
 * [autohotkey.com/foundation](https://autohotkey.com/foundation) - Official webpage of [AutoHotkey Foundation LLC](https://autohotkey.com/foundation/), a non-profit LLC (Limited Liability Company) founded for this software. Certificate of Organization (pdf) [link](https://autohotkey.com/certificate_of_organization.pdf).
 * [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
+* [autohotkey wiki](https://autohotkey.wiki/) - AutoHotkey wiki with tutorials, scripts and docs additons.
 
 ## Forks
 *Forks of AHK which add new features to the core language*
 
 ### AutoHotkey_H
-* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
+* [AutoHotkey_H](https://github.com/thqby/AutoHotkey_H) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll.
 
 ## License
 
