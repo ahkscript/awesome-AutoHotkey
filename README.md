@@ -89,7 +89,10 @@ Development state:
 * [Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade) - by Shambles - A Set of Functional Programming Libraries. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253)
 * [HashTable](https://github.com/Shambles-Dev/AutoHotkey-HashTable) - by Shambles - A Hash Table Implementation for AutoHotkey.
 * [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions.
-* [Type_Checking](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - by Shambles - Type Checking for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857)
+* [cnumpy](https://github.com/MonoEven/cnumpy) - by MonoEven - Numerical array library with a public C ABI and an AutoHotkey v2 facade. - Website: [link](https://monoeven.github.io/cnumpy/index.html)
+* [Collections](https://github.com/0w0Demonic/AquaHotkey/tree/main/docs/Collections) - by 0w0Demonic - Provides multiple containers and collections.
+* [Container](https://github.com/Nich-Cebolla/AutoHotkey-Container) - by Cebolla - Exposes over 100 additional methods to perform common data manipulations such as sorting and finding values.
+* [Array](https://github.com/Nich-Cebolla/AutoHotkey-Array) - by Cebolla - Provides common methods for array manipulation.
 
 ### Database
 * [AHKDb](https://github.com/AHKDb/AHKDb) - by AHKDb - A database library for tab-separated data.
@@ -166,6 +169,7 @@ Development state:
 * [Eval](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
+* [Distributions](https://github.com/Nich-Cebolla/AutoHotkey-Distributions) - by Cebolla - Five functions for generating sets of random numbers that adhere to a math distribution type.
 
 ### Memory
 * [classMemory](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
@@ -205,7 +209,7 @@ Development state:
 * [AquaHotkey](https://github.com/0w0Demonic/AquaHotkey) - by 0w0Demonic - Allows to extend built-in and user objects functionality and change their behavior dynamically. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=599697#p599697).
 * [Tanuki](https://github.com/0w0Demonic/Tanuki) - by 0w0Demonic - Win32-powered GUI library that directly extends the built-in GUI objects and its controls.
 * [Alchemy](https://github.com/0w0Demonic/Alchemy) - by 0w0Demonic - Toolkit for OOP and data manipulation, class methods and properties privatizers.
-* [Inheritance chain](https://github.com/Nich-Cebolla/AutoHotkey-LibV2/tree/main/inheritance) - by Nich-Cebolla - Functions to aid working with AHK object inheritance model.
+* [Inheritance chain](https://github.com/Nich-Cebolla/AutoHotkey-LibV2/tree/main/inheritance) - by Cebolla - Functions to aid working with AHK object inheritance model.
 
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
