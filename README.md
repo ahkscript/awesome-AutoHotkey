@@ -26,6 +26,7 @@ Development state:
     * [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
     * [System](#libraries-system)
     * [Text manipulation](#text-manipulation)
+    * [Prototyping](#prototyping)
   * [Library Distributions](#library-distributions)
   * [Scripts](#scripts)
     * [Clipboard](#scripts-clipboard)
@@ -191,11 +192,20 @@ Development state:
 * [RunAsTask](https://autohotkey.com/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
 * [Vista Audio Control Functions](https://github.com/ahkscript/VistaAudio) - by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
 * [Servy](https://github.com/aelassas/servy/tree/main) - by aelassas - Turn any Autohotkey script to a native Windows service. Forum thread: [Link](https://www.autohotkey.com/boards/viewtopic.php?f=22&t=139541&p=612125&hilit=Servy#p612125)
+* [Yako](https://github.com/0w0Demonic/Yako) - by 0w0Demonic - Overwrite window procedures of external applications using DLL injection.
+* [AhkWin32Projection](https://github.com/holy-tao/AhkWin32Projection) - by Holy Tao - Wrappers and toolkits for working with Win32 API without DllCalls.
 
 ### Text manipulation
 * [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
 * [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576).
 * [MarkdownToBBCode](https://github.com/JoyHak/MarkdownToBBCode) - by Rafaello - Convert your *.md text to forum post (BBcode). Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=608333#p608333).
+
+### Prototyping
+*Prototyping is a part of AHK object model that allows to dynamically assign properties to objects and change their inheritance chain.*
+* [AquaHotkey](https://github.com/0w0Demonic/AquaHotkey) - by 0w0Demonic - Allows to extend built-in and user objects functionality and change their behavior dynamically. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?p=599697#p599697).
+* [Tanuki](https://github.com/0w0Demonic/Tanuki) - by 0w0Demonic - Win32-powered GUI library that directly extends the built-in GUI objects and its controls.
+* [Alchemy](https://github.com/0w0Demonic/Alchemy) - by 0w0Demonic - Toolkit for OOP and data manipulation, class methods and properties privatizers.
+* [Inheritance chain](https://github.com/Nich-Cebolla/AutoHotkey-LibV2/tree/main/inheritance) - by Nich-Cebolla - Functions to aid working with AHK object inheritance model.
 
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
@@ -349,6 +359,8 @@ Development state:
 ### <a name="tutorials-classes"></a>Classes
 * [Classes in AHK, Basic tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial.
 * [Classes in AHK, a Dissection (Advanced)](https://autohotkey.com/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial.
+* [Prototyping (Introduction)](https://www.autohotkey.com/boards/viewtopic.php?t=124270) - Introduction into prototyping and AHK object model.
+* [Inheritance (Advanced)](https://truecrimedev.github.io/AHKv2_LLMs/inheritance.html) - AHK object inheritance and prototyping explanation with visualizations.
 
 ### <a name="tutorials-com"></a>COM
 * [MS Office COM Basics](https://autohotkey.com/boards/viewtopic.php?f=7&t=8978) - Using AutoHotkey with MS Office.
