@@ -68,7 +68,7 @@ This is a sibling list of [awesome-AutoHotkey](https://github.com/ahkscript/awes
 
 ### Typing
 
-* [Catena](http://normandlamoureux.com/catena/index.html) - by normand - Gui interface for AutoHotkey hotstrings
+* ~~[Catena](http://normandlamoureux.com/catena/index.html)~~ - by normand - Gui interface for AutoHotkey hotstrings (dead link)
 
 ### Window Management
 * [NiftyWindows](https://github.com/ahkscript/NiftyWindows) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
