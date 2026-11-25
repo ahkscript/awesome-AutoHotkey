@@ -142,6 +142,7 @@ Development state:
 * [Neutron](https://github.com/G33kDude/Neutron.ahk/) - by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865)
 
 ### Hotkeys
+* [AutoHotInterceptor](https://github.com/TitanCSA/AutoHotInterceptor) - Remap input from selected keyboards or mice with AutoHotkey v2. Uses the Interceptor Keyboard & Mouse driver, with a one-hour demo.
 * [CHotkeyControl](https://autohotkey.com/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
 * [HParse](https://autohotkey.com/board/topic/92805-) - by Avi -  Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
